@@ -1,0 +1,59 @@
+======================================================================
+  DEVICE: ISP-HQ1
+  TYPE:   IOSV ROUTER
+  STATUS: Final Configuration (SMLC Renamed)
+======================================================================
+
+hostname ISP-HQ1
+!
+no ip domain-lookup
+ip domain-name medsyn.lab
+!
+banner motd ^UNAUTHORISED ACCESS IS PROHIBITED - ISP-HQ1^
+!
+username admin privilege 15 secret MedSyn@2024
+enable secret MedSyn@2024
+service password-encryption
+!
+ip ssh version 2
+!
+interface Loopback0
+ ip address 3.3.3.1 255.255.255.255
+ no shutdown
+!
+interface GigabitEthernet0/0
+ description LINK_TO_HQ_FWL1_OUTSIDE
+ ip address 203.0.113.1 255.255.255.252
+ no shutdown
+!
+interface GigabitEthernet0/1
+ description LINK_TO_HQ_FWL2_OUTSIDE
+ ip address 203.0.113.5 255.255.255.252
+ no shutdown
+!
+interface GigabitEthernet0/2
+ description LINK_TO_INTERNET
+ ip address 192.0.2.2 255.255.255.252
+ no shutdown
+!
+router ospf 15
+ router-id 3.3.3.1
+ log-adjacency-changes
+ network 3.3.3.1 0.0.0.0 area 0
+ network 192.0.2.0 0.0.0.3 area 0
+ network 203.0.113.0 0.0.0.3 area 0
+ network 203.0.113.4 0.0.0.3 area 0
+!
+ip classless
+!
+line con 0
+ exec-timeout 5 0
+ login local
+line vty 0 4
+ login local
+ transport input ssh
+line vty 5 15
+ login local
+ transport input ssh
+!
+end

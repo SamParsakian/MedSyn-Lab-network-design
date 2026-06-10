@@ -1,0 +1,33 @@
+======================================================================
+  DEVICE: SMLC-MAIL1
+  TYPE:   ALPINE LINUX SERVER
+  STATUS: Final Configuration (SMLC Renamed)
+======================================================================
+
+#!/bin/sh
+# MedSyn Email Server
+# IP: 10.10.10.14/26, GW: 10.10.10.1
+
+hostname SMLC-MAIL1
+
+ip addr flush dev eth0
+ip addr add 10.10.10.14/26 dev eth0
+ip link set eth0 up
+ip route add default via 10.10.10.1
+echo "nameserver 10.10.10.12" > /etc/resolv.conf
+
+apk update && apk add postfix
+
+cat > /etc/postfix/main.cf << 'MAILEOF'
+myhostname = email-srv.medsyn.lab
+mydomain = medsyn.lab
+myorigin = $mydomain
+inet_interfaces = all
+inet_protocols = ipv4
+mydestination = $myhostname, localhost.$mydomain, localhost, $mydomain
+mynetworks = 10.10.10.0/26, 172.16.0.0/12, 172.17.0.0/16
+smtpd_banner = $myhostname ESMTP MedSyn Mail
+MAILEOF
+
+rc-update add postfix default
+rc-service postfix start

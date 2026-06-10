@@ -1,0 +1,114 @@
+======================================================================
+  DEVICE: SMLC-HQ-BizOps-SW1
+  TYPE:   IOSVL2 ACCESS SWITCH
+  STATUS: Final Configuration (SMLC Renamed)
+======================================================================
+
+hostname SMLC-HQ-BizOps-SW1
+!
+no ip domain-lookup
+ip domain-name medsyn.lab
+!
+username admin privilege 15 secret MedSyn@2024
+enable secret MedSyn@2024
+service password-encryption
+!
+spanning-tree mode rapid-pvst
+spanning-tree portfast default
+spanning-tree portfast bpduguard default
+!
+vlan 10
+ name Management
+!
+vlan 20
+ name LAN-Voice
+!
+vlan 50
+ name WLAN
+!
+vlan 99
+ name BLACKHOLE
+!
+interface GigabitEthernet0/0
+ description UPLINK_TO_HQ-MLSW1
+ switchport trunk encapsulation dot1q
+ switchport mode trunk
+ switchport trunk allowed vlan 10,20,50
+ switchport trunk native vlan 99
+ spanning-tree portfast disable
+ no shutdown
+!
+interface GigabitEthernet0/1
+ description UPLINK_TO_HQ-MLSW2
+ switchport trunk encapsulation dot1q
+ switchport mode trunk
+ switchport trunk allowed vlan 10,20,50
+ switchport trunk native vlan 99
+ spanning-tree portfast disable
+ no shutdown
+!
+interface GigabitEthernet0/2
+ description ACCESS_BUS-PC1_VLAN20
+ switchport access vlan 20
+ switchport mode access
+ spanning-tree portfast
+ no shutdown
+!
+interface GigabitEthernet0/3
+ description ACCESS_BUS-PC2_VLAN20
+ switchport access vlan 20
+ switchport mode access
+ spanning-tree portfast
+ no shutdown
+!
+interface GigabitEthernet1/0
+ description ACCESS_BUS-PRNT_VLAN20
+ switchport access vlan 20
+ switchport mode access
+ spanning-tree portfast
+ no shutdown
+!
+interface GigabitEthernet1/1
+ description ACCESS_BUS-LAP_VLAN20
+ switchport access vlan 20
+ switchport mode access
+ spanning-tree portfast
+ no shutdown
+!
+interface GigabitEthernet1/2
+ description ACCESS_BUS-TBL_VLAN20
+ switchport access vlan 20
+ switchport mode access
+ spanning-tree portfast
+ no shutdown
+!
+interface GigabitEthernet1/3
+ description ACCESS_BUS-SM_VLAN20
+ switchport access vlan 20
+ switchport mode access
+ spanning-tree portfast
+ no shutdown
+!
+interface GigabitEthernet2/0
+ description ACCESS_BUS-LPT_VLAN20
+ switchport access vlan 20
+ switchport mode access
+ spanning-tree portfast
+ no shutdown
+!
+interface Vlan10
+ ip address 172.16.10.11 255.255.255.0
+ no shutdown
+!
+ip default-gateway 172.16.10.1
+!
+banner motd ^UNAUTHORISED ACCESS IS PROHIBITED - SMLC-HQ-BizOps-SW1^
+!
+line con 0
+ exec-timeout 5 0
+ login local
+line vty 0 4
+ login local
+ transport input ssh
+!
+end

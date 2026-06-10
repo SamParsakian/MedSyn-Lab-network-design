@@ -1,0 +1,53 @@
+======================================================================
+  DEVICE: ISP-BR1
+  TYPE:   IOSV ROUTER
+  STATUS: Final Configuration (SMLC Renamed)
+======================================================================
+
+hostname ISP-BR1
+!
+no ip domain-lookup
+ip domain-name medsyn.lab
+!
+banner motd ^UNAUTHORISED ACCESS IS PROHIBITED - ISP-BR1^
+!
+username admin privilege 15 secret MedSyn@2024
+enable secret MedSyn@2024
+service password-encryption
+!
+ip ssh version 2
+!
+interface Loopback0
+ ip address 5.5.5.1 255.255.255.255
+ no shutdown
+!
+interface GigabitEthernet0/0
+ description LINK_TO_BRANCH_FW_OUTSIDE
+ ip address 198.51.100.1 255.255.255.252
+ no shutdown
+!
+interface GigabitEthernet0/1
+ description LINK_TO_INTERNET
+ ip address 192.0.2.6 255.255.255.252
+ no shutdown
+!
+router ospf 15
+ router-id 5.5.5.1
+ log-adjacency-changes
+ network 5.5.5.1 0.0.0.0 area 0
+ network 192.0.2.4 0.0.0.3 area 0
+ network 198.51.100.0 0.0.0.3 area 0
+!
+ip classless
+!
+line con 0
+ exec-timeout 5 0
+ login local
+line vty 0 4
+ login local
+ transport input ssh
+line vty 5 15
+ login local
+ transport input ssh
+!
+end

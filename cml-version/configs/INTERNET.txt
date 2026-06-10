@@ -1,0 +1,65 @@
+======================================================================
+  DEVICE: INTERNET
+  TYPE:   IOSV ROUTER
+  STATUS: Final Configuration (SMLC Renamed)
+======================================================================
+
+hostname INTERNET
+!
+no ip domain-lookup
+ip domain-name medsyn.lab
+!
+banner motd ^UNAUTHORISED ACCESS IS PROHIBITED - INTERNET^
+!
+username admin privilege 15 secret MedSyn@2024
+enable secret MedSyn@2024
+service password-encryption
+!
+ip ssh version 2
+!
+interface Loopback0
+ ip address 4.4.4.1 255.255.255.255
+ no shutdown
+!
+interface GigabitEthernet0/0
+ description LINK_TO_ISP1
+ ip address 192.0.2.1 255.255.255.252
+ no shutdown
+!
+interface GigabitEthernet0/1
+ description LINK_TO_BRANCH_ISP
+ ip address 192.0.2.5 255.255.255.252
+ no shutdown
+!
+interface GigabitEthernet0/2
+ description LINK_TO_ISP2
+ ip address 192.0.2.9 255.255.255.252
+ no shutdown
+!
+interface GigabitEthernet0/3
+ description GOOGLE_CLOUD_SEGMENT
+ ip address 192.0.2.129 255.255.255.128
+ no shutdown
+!
+router ospf 15
+ router-id 4.4.4.1
+ log-adjacency-changes
+ network 4.4.4.1 0.0.0.0 area 0
+ network 192.0.2.0 0.0.0.3 area 0
+ network 192.0.2.4 0.0.0.3 area 0
+ network 192.0.2.8 0.0.0.3 area 0
+ network 192.0.2.128 0.0.0.127 area 0
+!
+ip classless
+!
+line con 0
+ exec-timeout 5 0
+ login local
+line vty 0 4
+ login local
+ transport input ssh
+line vty 5 15
+ login local
+ transport input ssh
+!
+end

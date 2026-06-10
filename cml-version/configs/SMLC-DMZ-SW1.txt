@@ -1,0 +1,90 @@
+======================================================================
+  DEVICE: SMLC-DMZ-SW1
+  TYPE:   IOSVL2 ACCESS SWITCH
+  STATUS: Final Configuration (SMLC Renamed)
+======================================================================
+
+hostname SMLC-DMZ-SW1
+!
+no ip domain-lookup
+ip domain-name medsyn.lab
+!
+username admin privilege 15 secret MedSyn@2024
+enable secret MedSyn@2024
+service password-encryption
+!
+ip ssh version 2
+spanning-tree mode rapid-pvst
+spanning-tree portfast default
+spanning-tree portfast bpduguard default
+!
+vlan 100
+ name DMZ
+!
+interface GigabitEthernet0/0
+ description LINK_TO_HQ-FWL1_DMZ
+ switchport access vlan 100
+ switchport mode access
+ no shutdown
+!
+interface GigabitEthernet0/1
+ description DHCP-SRV1
+ switchport access vlan 100
+ switchport mode access
+ no shutdown
+!
+interface GigabitEthernet0/2
+ description DHCP-SRV2
+ switchport access vlan 100
+ switchport mode access
+ no shutdown
+!
+interface GigabitEthernet0/3
+ description DNS-SRV
+ switchport access vlan 100
+ switchport mode access
+ no shutdown
+!
+interface GigabitEthernet1/0
+ description WEB-SRV
+ switchport access vlan 100
+ switchport mode access
+ no shutdown
+!
+interface GigabitEthernet1/1
+ description EMAIL-SRV
+ switchport access vlan 100
+ switchport mode access
+ no shutdown
+!
+interface GigabitEthernet1/2
+ description FTP-SRV
+ switchport access vlan 100
+ switchport mode access
+ no shutdown
+!
+interface Vlan100
+ description DMZ_MANAGEMENT
+ ip address 10.10.10.2 255.255.255.192
+ no shutdown
+!
+ip default-gateway 10.10.10.1
+!
+access-list 10 permit 10.10.10.0 0.0.0.63
+access-list 10 deny any
+!
+banner motd ^UNAUTHORISED ACCESS IS PROHIBITED - SMLC-DMZ-SW1^
+!
+line con 0
+ exec-timeout 5 0
+ login local
+line vty 0 4
+ access-class 10 in
+ login local
+ transport input ssh
+line vty 5 15
+ access-class 10 in
+ login local
+ transport input ssh
+!
+end

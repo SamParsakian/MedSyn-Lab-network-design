@@ -1,0 +1,43 @@
+======================================================================
+  DEVICE: SMLC-FTP1
+  TYPE:   ALPINE LINUX SERVER
+  STATUS: Final Configuration (SMLC Renamed)
+======================================================================
+
+#!/bin/sh
+# MedSyn FTP Server
+# IP: 10.10.10.15/26, GW: 10.10.10.1
+
+hostname SMLC-FTP1
+
+ip addr flush dev eth0
+ip addr add 10.10.10.15/26 dev eth0
+ip link set eth0 up
+ip route add default via 10.10.10.1
+echo "nameserver 10.10.10.12" > /etc/resolv.conf
+
+apk update && apk add vsftpd
+
+cat > /etc/vsftpd/vsftpd.conf << 'FTPEOF'
+listen=YES
+anonymous_enable=NO
+local_enable=YES
+write_enable=YES
+local_umask=022
+dirmessage_enable=YES
+xferlog_enable=YES
+connect_from_port_20=YES
+xferlog_std_format=YES
+ftpd_banner=MedSyn FTP Server - Authorised Users Only
+chroot_local_user=YES
+allow_writeable_chroot=YES
+pasv_enable=YES
+pasv_min_port=50000
+pasv_max_port=50100
+FTPEOF
+
+adduser -D ftpuser
+echo "ftpuser:MedSyn@2024" | chpasswd
+
+rc-update add vsftpd default
+rc-service vsftpd start

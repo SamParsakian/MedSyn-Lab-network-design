@@ -1,0 +1,42 @@
+======================================================================
+  DEVICE: EXT-SW1
+  TYPE:   IOSVL2 CLOUD SWITCH
+  STATUS: Final Configuration (SMLC Renamed)
+======================================================================
+
+hostname EXT-SW1
+!
+no ip domain-lookup
+ip domain-name medsyn.lab
+!
+username admin privilege 15 secret MedSyn@2024
+enable secret MedSyn@2024
+service password-encryption
+!
+spanning-tree mode rapid-pvst
+spanning-tree extend system-id
+!
+interface GigabitEthernet0/0
+ description LINK_TO_INTERNET_G0/3
+ switchport mode access
+ spanning-tree portfast
+ no shutdown
+!
+interface GigabitEthernet0/1
+ description LINK_TO_GOOGLE-SERVER
+ switchport mode access
+ spanning-tree portfast
+ no shutdown
+!
+interface GigabitEthernet0/2
+ description LINK_TO_GOOGLE-VM
+ switchport mode access
+ spanning-tree portfast
+ no shutdown
+!
+interface GigabitEthernet0/3
+ switchport mode access
+ spanning-tree portfast
+ no shutdown
+!
+end

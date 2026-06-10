@@ -1,0 +1,18 @@
+======================================================================
+  DEVICE: EXT-DNS1
+  TYPE:   ALPINE LINUX CLOUD SERVER
+  STATUS: Final Configuration (SMLC Renamed)
+======================================================================
+
+#!/bin/sh
+# GOOGLE-SERVER - Simulated cloud server
+hostname EXT-DNS1
+ip addr flush dev eth0
+ip addr add 192.0.2.200/25 dev eth0
+ip link set eth0 up
+ip route add default via 192.0.2.129
+echo "nameserver 8.8.8.8" > /etc/resolv.conf
+apk update && apk add lighttpd
+mkdir -p /var/www/localhost/htdocs
+echo "<html><body><h1>MedSyn Simulated Google Cloud</h1></body></html>" > /var/www/localhost/htdocs/index.html
+rc-service lighttpd start

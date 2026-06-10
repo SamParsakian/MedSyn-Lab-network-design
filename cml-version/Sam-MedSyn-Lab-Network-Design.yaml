@@ -1,0 +1,5799 @@
+annotations:
+  - border_color: '#808080FF'
+    border_style: ''
+    color: '#7A8DED47'
+    rotation: 0
+    thickness: 1
+    type: ellipse
+    x1: 205.1726354234436
+    y1: -175.17551214890258
+    x2: 978.6445477003153
+    y2: 60.0
+    z_index: 2
+  - border_color: '#2E86C1'
+    border_radius: 8
+    border_style: ''
+    color: '#D6EAF8'
+    rotation: 0
+    thickness: 2
+    type: rectangle
+    x1: -2346.7263650947752
+    y1: 522.2528429997045
+    x2: 627.0444258866569
+    y2: 515.1353416909556
+    z_index: -100
+  - border_color: '#D4AC0D'
+    border_radius: 8
+    border_style: ''
+    color: '#FEF9E7'
+    rotation: 0
+    thickness: 2
+    type: rectangle
+    x1: -1673.061181251345
+    y1: 523.3121445393325
+    x2: 535.711130543611
+    y2: 520.0
+    z_index: -100
+  - border_color: '#1E8449'
+    border_radius: 8
+    border_style: ''
+    color: '#EAFAF1'
+    rotation: 0
+    thickness: 2
+    type: rectangle
+    x1: -1061.5433591360538
+    y1: 517.0558569840367
+    x2: 562.5596362740341
+    y2: 520.0
+    z_index: -100
+  - border_color: '#7D3C98'
+    border_radius: 8
+    border_style: ''
+    color: '#F5EEF8'
+    rotation: 0
+    thickness: 2
+    type: rectangle
+    x1: -427.5974471426747
+    y1: 520.0
+    x2: 567.5974471426748
+    y2: 520.0
+    z_index: -100
+  - border_color: '#CA6F1E'
+    border_radius: 8
+    border_style: ''
+    color: '#FEF0E7'
+    rotation: 0
+    thickness: 2
+    type: rectangle
+    x1: 250.97777471524188
+    y1: 520.0
+    x2: 547.4156958518597
+    y2: 520.0
+    z_index: -100
+  - border_color: '#2E86C1'
+    border_style: ''
+    color: '#2E86C1'
+    rotation: 0
+    text_bold: true
+    text_content: MgmtAdmin
+    text_font: Arial
+    text_italic: false
+    text_size: 20
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -2085.0766469616838
+    y1: 1055.16656412502
+    z_index: 100
+  - border_color: '#D4AC0D'
+    border_style: ''
+    color: '#D4AC0D'
+    rotation: 0
+    text_bold: true
+    text_content: BizOps
+    text_font: Arial
+    text_italic: false
+    text_size: 20
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -1440.6352332885956
+    y1: 1061.7602075844054
+    z_index: 100
+  - border_color: '#1E8449'
+    border_style: ''
+    color: '#1E8449'
+    rotation: 0
+    text_bold: true
+    text_content: Finance
+    text_font: Arial
+    text_italic: false
+    text_size: 20
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -809.1544744504624
+    y1: 1056.0381265280168
+    z_index: 100
+  - border_color: '#7D3C98'
+    border_style: ''
+    color: '#7D3C98'
+    rotation: 0
+    text_bold: true
+    text_content: TechOps
+    text_font: Arial
+    text_italic: false
+    text_size: 20
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -200.8699714673712
+    y1: 1065.1706637701136
+    z_index: 100
+  - border_color: '#CA6F1E'
+    border_style: ''
+    color: '#CA6F1E'
+    rotation: 0
+    text_bold: true
+    text_content: ITInfra
+    text_font: Arial
+    text_italic: false
+    text_size: 20
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 478.2226708288948
+    y1: 1065.3854195993788
+    z_index: 100
+  - border_color: '#7D3C98'
+    border_radius: 8
+    border_style: ''
+    color: '#F5EEF8'
+    rotation: 0
+    thickness: 2
+    type: rectangle
+    x1: 1188.0283818072683
+    y1: 520.3075376094902
+    x2: 200.8833238982038
+    y2: 519.8135527166057
+    z_index: -100
+  - border_color: '#1A8774'
+    border_radius: 8
+    border_style: ''
+    color: '#E8F8F5'
+    rotation: 0
+    thickness: 2
+    type: rectangle
+    x1: 1403.874688660871
+    y1: 519.0461800635318
+    x2: 201.8890768638414
+    y2: 521.4258210835013
+    z_index: -100
+  - border_color: '#D4AC0D'
+    border_radius: 8
+    border_style: ''
+    color: '#FEF9E7'
+    rotation: 0
+    thickness: 2
+    type: rectangle
+    x1: 1614.9148691209064
+    y1: 521.8731108053295
+    x2: 199.49103061446
+    y2: 519.0643251715186
+    z_index: -100
+  - border_color: '#2E86C1'
+    border_radius: 8
+    border_style: ''
+    color: '#D6EAF8'
+    rotation: 0
+    thickness: 2
+    type: rectangle
+    x1: 1831.1281795033053
+    y1: 522.4719214019208
+    x2: 194.41632612586477
+    y2: 519.9906985076265
+    z_index: -100
+  - border_color: '#7D3C98'
+    border_style: ''
+    color: '#7D3C98'
+    rotation: 0
+    text_bold: true
+    text_content: BR-TechOps
+    text_font: Arial
+    text_italic: false
+    text_size: 15
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 1239.0036105682047
+    y1: 1054.689958385728
+    z_index: 100
+  - border_color: '#1A8774'
+    border_style: ''
+    color: '#1A8774'
+    rotation: 0
+    text_bold: true
+    text_content: BR-FieldOps
+    text_font: Arial
+    text_italic: false
+    text_size: 15
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 1445.0268490970118
+    y1: 1050.5131415642506
+    z_index: 100
+  - border_color: '#D4AC0D'
+    border_style: ''
+    color: '#D4AC0D'
+    rotation: 0
+    text_bold: true
+    text_content: BR-BizOps
+    text_font: Arial
+    text_italic: false
+    text_size: 15
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 1673.6171499598354
+    y1: 1054.234850187926
+    z_index: 100
+  - border_color: '#2E86C1'
+    border_style: ''
+    color: '#2E86C1'
+    rotation: 0
+    text_bold: true
+    text_content: BR-Support
+    text_font: Arial
+    text_italic: false
+    text_size: 15
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 1879.3696376335554
+    y1: 1054.164733952773
+    z_index: 100
+  - border_color: '#808080FF'
+    border_style: ''
+    color: '#B6E07B24'
+    rotation: 0
+    thickness: 1
+    type: ellipse
+    x1: -1514.7911467756835
+    y1: -236.75420133566178
+    x2: 280.06586787063475
+    y2: 288.6174974239365
+    z_index: 101
+  - border_color: '#808080FF'
+    border_style: ''
+    color: '#FFFFFFFF'
+    line_end: null
+    line_start: null
+    thickness: 1
+    type: line
+    x1: -1702.0337919215463
+    y1: 520.9940649508711
+    x2: 2170.3021383806877
+    y2: 520.3817421891698
+    z_index: 102
+  - border_color: '#C9A2A2'
+    border_style: ''
+    color: '#CCF9E5'
+    rotation: 0
+    thickness: 1
+    type: ellipse
+    x1: 179.39318759403682
+    y1: -644.2891825137013
+    x2: 1134.743967430352
+    y2: 141.28529083339902
+    z_index: 103
+  - border_color: '#F46262'
+    border_radius: 0
+    border_style: ''
+    color: '#FFFFFFFF'
+    rotation: 0
+    thickness: 1
+    type: rectangle
+    x1: -40.963797703768705
+    y1: -1059.2074259209717
+    x2: 449.6001591580932
+    y2: 190.73946146100923
+    z_index: 104
+smart_annotations: []
+nodes:
+  - boot_disk_size: null
+    configuration:
+      - name: day0-config
+        content: |-
+          hostname SMLC-HQ-FW1
+          domain-name medsyn.lab
+          !
+          same-security-traffic permit inter-interface
+          same-security-traffic permit intra-interface
+          !
+          passwd MedSyn@2024
+          enable password MedSyn@2024
+          !
+          interface GigabitEthernet0/0
+           nameif INSIDE1
+           security-level 100
+           ip address 10.10.0.2 255.255.255.252
+           no shutdown
+          !
+          interface GigabitEthernet0/1
+           nameif INSIDE2
+           security-level 100
+           ip address 10.10.0.6 255.255.255.252
+           no shutdown
+          !
+          interface GigabitEthernet0/2
+           nameif DMZ
+           security-level 70
+           ip address 10.10.10.1 255.255.255.192
+           no shutdown
+          !
+          interface GigabitEthernet0/3
+           nameif OUTSIDE
+           security-level 0
+           ip address 203.0.113.2 255.255.255.252
+           no shutdown
+          !
+          interface GigabitEthernet0/4
+           nameif OUTSIDE2
+           security-level 0
+           ip address 203.0.113.14 255.255.255.252
+           no shutdown
+          !
+          route OUTSIDE 0.0.0.0 0.0.0.0 203.0.113.1 1
+          !
+          object network HQ-MGMT-INSIDE1
+           subnet 172.16.10.0 255.255.255.0
+           nat (INSIDE1,OUTSIDE) dynamic interface
+          !
+          object network HQ-LAN-INSIDE1
+           subnet 172.16.20.0 255.255.252.0
+           nat (INSIDE1,OUTSIDE) dynamic interface
+          !
+          object network HQ-WLAN-INSIDE1
+           subnet 172.16.48.0 255.255.252.0
+           nat (INSIDE1,OUTSIDE) dynamic interface
+          !
+          object network HQ-MGMT-INSIDE2
+           subnet 172.16.10.0 255.255.255.0
+           nat (INSIDE2,OUTSIDE) dynamic interface
+          !
+          object network HQ-LAN-INSIDE2
+           subnet 172.16.20.0 255.255.252.0
+           nat (INSIDE2,OUTSIDE) dynamic interface
+          !
+          object network HQ-WLAN-INSIDE2
+           subnet 172.16.48.0 255.255.252.0
+           nat (INSIDE2,OUTSIDE) dynamic interface
+          !
+          access-list RES-ACCESS extended permit ospf any any
+          access-list RES-ACCESS extended permit icmp any any
+          access-list RES-ACCESS extended permit tcp any any eq www
+          access-list RES-ACCESS extended permit tcp any any eq https
+          access-list RES-ACCESS extended permit tcp any any eq smtp
+          access-list RES-ACCESS extended permit tcp any any eq ftp
+          access-list RES-ACCESS extended permit tcp any any eq 21
+          access-list RES-ACCESS extended permit udp any any eq domain
+          access-list RES-ACCESS extended permit tcp any any eq domain
+          access-list RES-ACCESS extended permit udp any any eq bootps
+          access-list RES-ACCESS extended permit udp any any eq bootpc
+          !
+          access-group RES-ACCESS in interface OUTSIDE
+          access-group RES-ACCESS in interface OUTSIDE2
+          access-group RES-ACCESS in interface DMZ
+          !
+          router ospf 15
+           router-id 1.1.1.1
+           default-information originate always
+           log-adj-changes
+           network 10.10.0.0 255.255.255.252 area 0
+           network 10.10.0.4 255.255.255.252 area 0
+           network 10.10.10.0 255.255.255.192 area 0
+           network 203.0.113.0 255.255.255.252 area 0
+           network 203.0.113.12 255.255.255.252 area 0
+          !
+          telnet timeout 5
+          ssh timeout 5
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n0
+    image_definition: null
+    label: SMLC-HQ-FW1
+    node_definition: asav
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: 2200
+    tags: []
+    x: -809
+    y: -168
+    interfaces:
+      - id: i0
+        label: Management0/0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: null
+        type: physical
+        slot: 3
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: null
+        type: physical
+        slot: 4
+      - id: i5
+        label: GigabitEthernet0/4
+        mac_address: null
+        type: physical
+        slot: 5
+  - boot_disk_size: null
+    configuration:
+      - name: day0-config
+        content: |-
+          hostname SMLC-HQ-FW2
+          domain-name medsyn.lab
+          !
+          username admin password MedSyn@2024 privilege 15
+          enable password MedSyn@2024
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n1
+    image_definition: null
+    label: SMLC-HQ-FW2
+    node_definition: asav
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -450
+    y: -349
+    interfaces:
+      - id: i0
+        label: Management0/0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: null
+        type: physical
+        slot: 3
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: null
+        type: physical
+        slot: 4
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          hostname SMLC-HQ-CoreSW1
+          !
+          no ip domain-lookup
+          ip domain-name medsyn.lab
+          ip routing
+          !
+          username admin privilege 15 secret MedSyn@2024
+          enable secret MedSyn@2024
+          service password-encryption
+          !
+          ip ssh version 2
+          spanning-tree mode rapid-pvst
+          spanning-tree extend system-id
+          !
+          vlan 10
+           name Management
+          !
+          vlan 20
+           name LAN-Voice
+          !
+          vlan 50
+           name WLAN
+          !
+          vlan 99
+           name BLACKHOLE
+          !
+          interface GigabitEthernet0/0
+           description LINK_TO_SMLC-HQ-FW1_INSIDE1
+           no switchport
+           ip address 10.10.0.1 255.255.255.252
+           no shutdown
+          !
+          interface GigabitEthernet0/1
+           description LINK_TO_SMLC-HQ-FW2_INSIDE1
+           no switchport
+           ip address 10.10.0.9 255.255.255.252
+           no shutdown
+          !
+          interface GigabitEthernet0/2
+           description TRUNK_TO_SMLC-HQ-MgmtAdmin-SW1
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50
+           switchport trunk native vlan 99
+           spanning-tree portfast trunk
+           no shutdown
+          !
+          interface GigabitEthernet0/3
+           description TRUNK_TO_SMLC-HQ-BizOps-SW1
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50
+           switchport trunk native vlan 99
+           no shutdown
+          !
+          interface GigabitEthernet1/0
+           description TRUNK_TO_SMLC-HQ-Finance-SW1
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50
+           switchport trunk native vlan 99
+           no shutdown
+          !
+          interface GigabitEthernet1/1
+           description TRUNK_TO_SMLC-HQ-TechOps-SW1
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50
+           switchport trunk native vlan 99
+           no shutdown
+          !
+          interface GigabitEthernet1/2
+           description ACCESS_TO_HQ_WLC_VLAN50
+           switchport access vlan 50
+           switchport mode access
+           spanning-tree portfast
+           spanning-tree bpduguard enable
+           no shutdown
+          !
+          interface GigabitEthernet1/3
+           description ETHERCHANNEL_TO_SMLC-HQ-CoreSW2_LINK1
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50,99
+           channel-group 1 mode active
+           no shutdown
+          !
+          interface GigabitEthernet2/0
+           description ETHERCHANNEL_TO_SMLC-HQ-CoreSW2_LINK2
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50,99
+           channel-group 1 mode active
+           no shutdown
+          !
+          interface GigabitEthernet2/1
+           description ETHERCHANNEL_TO_SMLC-HQ-CoreSW2_LINK3
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50,99
+           channel-group 1 mode active
+           no shutdown
+          !
+          interface GigabitEthernet2/2
+           description TRUNK_TO_SMLC-HQ-ITInfra-SW1
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50
+           switchport trunk native vlan 99
+           no shutdown
+          !
+          interface Port-channel1
+           description LACP_ETHERCHANNEL_TO_SMLC-HQ-CoreSW2
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50,99
+          !
+          interface Vlan10
+           description MANAGEMENT_SVI
+           ip address 172.16.10.3 255.255.255.0
+           ip helper-address 10.10.10.10
+           ip helper-address 10.10.10.11
+           standby version 2
+           standby 10 ip 172.16.10.1
+           standby 10 priority 110
+           standby 10 preempt delay minimum 30
+           standby 10 timers 3 10
+           no shutdown
+          !
+          interface Vlan20
+           description LAN_VOICE_SVI
+           ip address 172.16.20.3 255.255.252.0
+           ip helper-address 10.10.10.10
+           ip helper-address 10.10.10.11
+           standby version 2
+           standby 20 ip 172.16.20.1
+           standby 20 priority 110
+           standby 20 preempt delay minimum 30
+           standby 20 timers 3 10
+           no shutdown
+          !
+          interface Vlan50
+           description WLAN_SVI
+           ip address 172.16.50.3 255.255.252.0
+           ip helper-address 10.10.10.10
+           ip helper-address 10.10.10.11
+           standby version 2
+           standby 50 ip 172.16.50.1
+           standby 50 priority 110
+           standby 50 preempt delay minimum 30
+           standby 50 timers 3 10
+           no shutdown
+          !
+          interface Vlan99
+           description BLACKHOLE_NATIVE
+           no ip address
+           shutdown
+          !
+          router ospf 15
+           router-id 2.2.2.1
+           log-adjacency-changes
+           passive-interface default
+           no passive-interface GigabitEthernet0/0
+           no passive-interface GigabitEthernet0/1
+           network 10.10.0.0 0.0.0.3 area 0
+           network 10.10.0.8 0.0.0.3 area 0
+           network 172.16.10.0 0.0.0.255 area 0
+           network 172.16.20.0 0.0.3.255 area 0
+           network 172.16.50.0 0.0.3.255 area 0
+          !
+          ip classless
+          !
+          access-list 10 permit 172.16.10.0 0.0.0.255
+          access-list 10 deny any
+          !
+          banner motd ^UNAUTHORISED ACCESS IS PROHIBITED - SMLC-HQ-CoreSW1^
+          !
+          line con 0
+           exec-timeout 5 0
+           login local
+          line vty 0 4
+           access-class 10 in
+           login local
+           transport input ssh
+          line vty 5 15
+           access-class 10 in
+           login local
+           transport input ssh
+          !
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n2
+    image_definition: null
+    label: SMLC-HQ-CoreSW1
+    node_definition: iosvl2
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -821
+    y: 175
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: null
+        type: physical
+        slot: 3
+      - id: i5
+        label: GigabitEthernet1/0
+        mac_address: null
+        type: physical
+        slot: 4
+      - id: i6
+        label: GigabitEthernet1/1
+        mac_address: null
+        type: physical
+        slot: 5
+      - id: i7
+        label: GigabitEthernet1/2
+        mac_address: null
+        type: physical
+        slot: 6
+      - id: i8
+        label: GigabitEthernet1/3
+        mac_address: null
+        type: physical
+        slot: 7
+      - id: i9
+        label: GigabitEthernet2/0
+        mac_address: null
+        type: physical
+        slot: 8
+      - id: i10
+        label: GigabitEthernet2/1
+        mac_address: null
+        type: physical
+        slot: 9
+      - id: i11
+        label: GigabitEthernet2/2
+        mac_address: null
+        type: physical
+        slot: 10
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          hostname SMLC-HQ-CoreSW2
+          !
+          no ip domain-lookup
+          ip domain-name medsyn.lab
+          ip routing
+          !
+          username admin privilege 15 secret MedSyn@2024
+          enable secret MedSyn@2024
+          service password-encryption
+          !
+          ip ssh version 2
+          spanning-tree mode rapid-pvst
+          spanning-tree extend system-id
+          !
+          vlan 10
+           name Management
+          !
+          vlan 20
+           name LAN-Voice
+          !
+          vlan 50
+           name WLAN
+          !
+          vlan 99
+           name BLACKHOLE
+          !
+          interface GigabitEthernet0/0
+           description LINK_TO_SMLC-HQ-FW1_INSIDE2
+           no switchport
+           ip address 10.10.0.5 255.255.255.252
+           no shutdown
+          !
+          interface GigabitEthernet0/1
+           description LINK_TO_SMLC-HQ-FW2_INSIDE2
+           no switchport
+           ip address 10.10.0.13 255.255.255.252
+           no shutdown
+          !
+          interface GigabitEthernet0/2
+           description TRUNK_TO_SMLC-HQ-MgmtAdmin-SW1_DUAL_HOME
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50
+           switchport trunk native vlan 99
+           no shutdown
+          !
+          interface GigabitEthernet0/3
+           description TRUNK_TO_SMLC-HQ-BizOps-SW1_DUAL_HOME
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50
+           switchport trunk native vlan 99
+           no shutdown
+          !
+          interface GigabitEthernet1/0
+           description TRUNK_TO_SMLC-HQ-Finance-SW1_DUAL_HOME
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50
+           switchport trunk native vlan 99
+           no shutdown
+          !
+          interface GigabitEthernet1/1
+           description TRUNK_TO_SMLC-HQ-TechOps-SW1_DUAL_HOME
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50
+           switchport trunk native vlan 99
+           no shutdown
+          !
+          interface GigabitEthernet1/2
+           description TRUNK_TO_SMLC-HQ-ITInfra-SW1_DUAL_HOME
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50
+           switchport trunk native vlan 99
+           no shutdown
+          !
+          interface GigabitEthernet1/3
+           description ETHERCHANNEL_TO_SMLC-HQ-CoreSW1_LINK1
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50,99
+           channel-group 1 mode passive
+           no shutdown
+          !
+          interface GigabitEthernet2/0
+           description ETHERCHANNEL_TO_SMLC-HQ-CoreSW1_LINK2
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50,99
+           channel-group 1 mode passive
+           no shutdown
+          !
+          interface GigabitEthernet2/1
+           description ETHERCHANNEL_TO_SMLC-HQ-CoreSW1_LINK3
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50,99
+           channel-group 1 mode passive
+           no shutdown
+          !
+          interface Port-channel1
+           description LACP_ETHERCHANNEL_TO_SMLC-HQ-CoreSW1
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50,99
+          !
+          interface Vlan10
+           description MANAGEMENT_SVI
+           ip address 172.16.10.2 255.255.255.0
+           ip helper-address 10.10.10.10
+           ip helper-address 10.10.10.11
+           standby version 2
+           standby 10 ip 172.16.10.1
+           standby 10 priority 100
+           standby 10 preempt
+           standby 10 timers 3 10
+           no shutdown
+          !
+          interface Vlan20
+           description LAN_VOICE_SVI
+           ip address 172.16.20.2 255.255.252.0
+           ip helper-address 10.10.10.10
+           ip helper-address 10.10.10.11
+           standby version 2
+           standby 20 ip 172.16.20.1
+           standby 20 priority 100
+           standby 20 preempt
+           standby 20 timers 3 10
+           no shutdown
+          !
+          interface Vlan50
+           description WLAN_SVI
+           ip address 172.16.50.2 255.255.252.0
+           ip helper-address 10.10.10.10
+           ip helper-address 10.10.10.11
+           standby version 2
+           standby 50 ip 172.16.50.1
+           standby 50 priority 100
+           standby 50 preempt
+           standby 50 timers 3 10
+           no shutdown
+          !
+          interface Vlan99
+           description BLACKHOLE_NATIVE
+           no ip address
+           shutdown
+          !
+          router ospf 15
+           router-id 2.2.2.2
+           log-adjacency-changes
+           passive-interface default
+           no passive-interface GigabitEthernet0/0
+           no passive-interface GigabitEthernet0/1
+           network 10.10.0.4 0.0.0.3 area 0
+           network 10.10.0.12 0.0.0.3 area 0
+           network 172.16.10.0 0.0.0.255 area 0
+           network 172.16.20.0 0.0.3.255 area 0
+           network 172.16.50.0 0.0.3.255 area 0
+          !
+          ip classless
+          !
+          access-list 10 permit 172.16.10.0 0.0.0.255
+          access-list 10 deny any
+          !
+          banner motd ^UNAUTHORISED ACCESS IS PROHIBITED - SMLC-HQ-CoreSW2^
+          !
+          line con 0
+           exec-timeout 5 0
+           login local
+          line vty 0 4
+           access-class 10 in
+           login local
+           transport input ssh
+          line vty 5 15
+           access-class 10 in
+           login local
+           transport input ssh
+          !
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n3
+    image_definition: null
+    label: SMLC-HQ-CoreSW2
+    node_definition: iosvl2
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -181
+    y: 199
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: null
+        type: physical
+        slot: 3
+      - id: i5
+        label: GigabitEthernet1/0
+        mac_address: null
+        type: physical
+        slot: 4
+      - id: i6
+        label: GigabitEthernet1/1
+        mac_address: null
+        type: physical
+        slot: 5
+      - id: i7
+        label: GigabitEthernet1/2
+        mac_address: null
+        type: physical
+        slot: 6
+      - id: i8
+        label: GigabitEthernet1/3
+        mac_address: null
+        type: physical
+        slot: 7
+      - id: i9
+        label: GigabitEthernet2/0
+        mac_address: null
+        type: physical
+        slot: 8
+      - id: i10
+        label: GigabitEthernet2/1
+        mac_address: null
+        type: physical
+        slot: 9
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          hostname SMLC-DMZ-SW1
+          !
+          no ip domain-lookup
+          ip domain-name medsyn.lab
+          !
+          username admin privilege 15 secret MedSyn@2024
+          enable secret MedSyn@2024
+          service password-encryption
+          !
+          ip ssh version 2
+          spanning-tree mode rapid-pvst
+          spanning-tree portfast default
+          spanning-tree portfast bpduguard default
+          !
+          vlan 100
+           name DMZ
+          !
+          interface GigabitEthernet0/0
+           description LINK_TO_SMLC-HQ-FW1_DMZ
+           switchport access vlan 100
+           switchport mode access
+           no shutdown
+          !
+          interface GigabitEthernet0/1
+           description SMLC-DHCP1
+           switchport access vlan 100
+           switchport mode access
+           no shutdown
+          !
+          interface GigabitEthernet0/2
+           description SMLC-DHCP2
+           switchport access vlan 100
+           switchport mode access
+           no shutdown
+          !
+          interface GigabitEthernet0/3
+           description SMLC-DNS1
+           switchport access vlan 100
+           switchport mode access
+           no shutdown
+          !
+          interface GigabitEthernet1/0
+           description SMLC-WEB1
+           switchport access vlan 100
+           switchport mode access
+           no shutdown
+          !
+          interface GigabitEthernet1/1
+           description SMLC-MAIL1
+           switchport access vlan 100
+           switchport mode access
+           no shutdown
+          !
+          interface GigabitEthernet1/2
+           description SMLC-FTP1
+           switchport access vlan 100
+           switchport mode access
+           no shutdown
+          !
+          interface Vlan100
+           description DMZ_MANAGEMENT
+           ip address 10.10.10.2 255.255.255.192
+           no shutdown
+          !
+          ip default-gateway 10.10.10.1
+          !
+          access-list 10 permit 10.10.10.0 0.0.0.63
+          access-list 10 deny any
+          !
+          banner motd ^UNAUTHORISED ACCESS IS PROHIBITED - SMLC-DMZ-SW1^
+          !
+          line con 0
+           exec-timeout 5 0
+           login local
+          line vty 0 4
+           access-class 10 in
+           login local
+           transport input ssh
+          line vty 5 15
+           access-class 10 in
+           login local
+           transport input ssh
+          !
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n4
+    image_definition: null
+    label: SMLC-DMZ-SW1
+    node_definition: iosvl2
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -1346
+    y: -220
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: null
+        type: physical
+        slot: 3
+      - id: i5
+        label: GigabitEthernet1/0
+        mac_address: null
+        type: physical
+        slot: 4
+      - id: i6
+        label: GigabitEthernet1/1
+        mac_address: null
+        type: physical
+        slot: 5
+      - id: i7
+        label: GigabitEthernet1/2
+        mac_address: null
+        type: physical
+        slot: 6
+  - boot_disk_size: null
+    configuration:
+      - name: node.cfg
+        content: |-
+          #!/bin/sh
+          # MedSyn DHCP Server 1 - Primary
+          # IP: 10.10.10.10/26, GW: 10.10.10.1
+
+          hostname SMLC-DHCP1
+
+          ip addr flush dev eth0
+          ip addr add 10.10.10.10/26 dev eth0
+          ip link set eth0 up
+          ip route add default via 10.10.10.1
+
+          echo "nameserver 10.10.10.12" > /etc/resolv.conf
+          echo "search medsyn.lab" >> /etc/resolv.conf
+
+          apk update && apk add dhcp
+
+          cat > /etc/dhcp/dhcpd.conf << 'DHCPEOF'
+          authoritative;
+          log-facility local7;
+          default-lease-time 86400;
+          max-lease-time 172800;
+
+          subnet 10.10.10.0 netmask 255.255.255.192 {
+          }
+
+          subnet 172.16.10.0 netmask 255.255.255.0 {
+            range 172.16.10.100 172.16.10.200;
+            option subnet-mask 255.255.255.0;
+            option routers 172.16.10.1;
+            option domain-name-servers 10.10.10.12;
+            option domain-name "medsyn.lab";
+            default-lease-time 86400;
+          }
+
+          subnet 172.16.20.0 netmask 255.255.252.0 {
+            range 172.16.20.100 172.16.21.200;
+            option subnet-mask 255.255.252.0;
+            option routers 172.16.20.1;
+            option domain-name-servers 10.10.10.12;
+            option domain-name "medsyn.lab";
+          }
+
+          subnet 172.16.48.0 netmask 255.255.252.0 {
+            range 172.16.50.100 172.16.51.200;
+            option subnet-mask 255.255.252.0;
+            option routers 172.16.50.1;
+            option domain-name-servers 10.10.10.12;
+            option domain-name "medsyn.lab";
+          }
+
+          subnet 172.17.10.0 netmask 255.255.255.0 {
+            range 172.17.10.100 172.17.10.200;
+            option subnet-mask 255.255.255.0;
+            option routers 172.17.10.1;
+            option domain-name-servers 10.10.10.12;
+            option domain-name "medsyn.lab";
+          }
+
+          subnet 172.17.20.0 netmask 255.255.252.0 {
+            range 172.17.20.100 172.17.21.200;
+            option subnet-mask 255.255.252.0;
+            option routers 172.17.20.1;
+            option domain-name-servers 10.10.10.12;
+            option domain-name "medsyn.lab";
+          }
+
+          subnet 172.17.48.0 netmask 255.255.252.0 {
+            range 172.17.50.100 172.17.51.200;
+            option subnet-mask 255.255.252.0;
+            option routers 172.17.50.1;
+            option domain-name-servers 10.10.10.12;
+            option domain-name "medsyn.lab";
+          }
+          DHCPEOF
+
+          rc-update add dhcpd default
+          rc-service dhcpd start
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n5
+    image_definition: null
+    label: SMLC-DHCP1
+    node_definition: alpine
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -1497
+    y: -10
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration:
+      - name: node.cfg
+        content: |-
+          #!/bin/sh
+          # MedSyn DHCP Server 2 - Backup
+          # IP: 10.10.10.11/26, GW: 10.10.10.1
+
+          hostname SMLC-DHCP2
+
+          ip addr flush dev eth0
+          ip addr add 10.10.10.11/26 dev eth0
+          ip link set eth0 up
+          ip route add default via 10.10.10.1
+
+          echo "nameserver 10.10.10.12" > /etc/resolv.conf
+          echo "search medsyn.lab" >> /etc/resolv.conf
+
+          apk update && apk add dhcp
+
+          cat > /etc/dhcp/dhcpd.conf << 'DHCPEOF'
+          authoritative;
+          log-facility local7;
+          default-lease-time 86400;
+          max-lease-time 172800;
+
+          subnet 10.10.10.0 netmask 255.255.255.192 {
+          }
+
+          subnet 172.16.10.0 netmask 255.255.255.0 {
+            range 172.16.10.201 172.16.10.250;
+            option routers 172.16.10.1;
+            option domain-name-servers 10.10.10.12;
+            option domain-name "medsyn.lab";
+          }
+
+          subnet 172.16.20.0 netmask 255.255.252.0 {
+            range 172.16.21.201 172.16.21.250;
+            option routers 172.16.20.1;
+            option domain-name-servers 10.10.10.12;
+            option domain-name "medsyn.lab";
+          }
+
+          subnet 172.16.48.0 netmask 255.255.252.0 {
+            range 172.16.51.201 172.16.51.250;
+            option routers 172.16.50.1;
+            option domain-name-servers 10.10.10.12;
+            option domain-name "medsyn.lab";
+          }
+
+          subnet 172.17.10.0 netmask 255.255.255.0 {
+            range 172.17.10.201 172.17.10.250;
+            option routers 172.17.10.1;
+            option domain-name-servers 10.10.10.12;
+            option domain-name "medsyn.lab";
+          }
+
+          subnet 172.17.20.0 netmask 255.255.252.0 {
+            range 172.17.21.201 172.17.21.250;
+            option routers 172.17.20.1;
+            option domain-name-servers 10.10.10.12;
+            option domain-name "medsyn.lab";
+          }
+
+          subnet 172.17.48.0 netmask 255.255.252.0 {
+            range 172.17.51.201 172.17.51.250;
+            option routers 172.17.50.1;
+            option domain-name-servers 10.10.10.12;
+            option domain-name "medsyn.lab";
+          }
+          DHCPEOF
+
+          rc-update add dhcpd default
+          rc-service dhcpd start
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n6
+    image_definition: null
+    label: SMLC-DHCP2
+    node_definition: alpine
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -1611
+    y: -74
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration:
+      - name: node.cfg
+        content: |-
+          #!/bin/sh
+          # MedSyn DNS Server
+          # IP: 10.10.10.12/26, GW: 10.10.10.1
+
+          hostname SMLC-DNS1
+
+          ip addr flush dev eth0
+          ip addr add 10.10.10.12/26 dev eth0
+          ip link set eth0 up
+          ip route add default via 10.10.10.1
+
+          echo "nameserver 8.8.8.8" > /etc/resolv.conf
+
+          apk update && apk add bind bind-tools
+
+          cat > /etc/bind/named.conf << 'DNSEOF'
+          options {
+              directory "/var/bind";
+              listen-on { any; };
+              allow-query { any; };
+              forwarders { 8.8.8.8; 1.1.1.1; };
+              recursion yes;
+          };
+
+          zone "medsyn.lab" IN {
+              type master;
+              file "/var/bind/medsyn.lab.zone";
+          };
+
+          zone "16.172.in-addr.arpa" IN {
+              type master;
+              file "/var/bind/172.16.rev";
+          };
+          DNSEOF
+
+          cat > /var/bind/medsyn.lab.zone << 'ZONEEOF'
+          $TTL 3600
+          @   IN  SOA SMLC-DNS1.medsyn.lab. admin.medsyn.lab. (
+                  2024010101 3600 900 604800 300 )
+              IN  NS  SMLC-DNS1.medsyn.lab.
+          SMLC-DNS1     IN  A   10.10.10.12
+          SMLC-DHCP1    IN  A   10.10.10.10
+          SMLC-DHCP2    IN  A   10.10.10.11
+          SMLC-WEB1     IN  A   10.10.10.13
+          SMLC-MAIL1    IN  A   10.10.10.14
+          SMLC-FTP1     IN  A   10.10.10.15
+          SMLC-HQ-FW1   IN  A   10.10.10.1
+          SMLC-HQ-CoreSW1  IN  A   172.16.10.3
+          SMLC-HQ-CoreSW2  IN  A   172.16.10.2
+          gateway       IN  A   172.16.10.1
+          ZONEEOF
+
+          rc-update add named default
+          rc-service named start
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n7
+    image_definition: null
+    label: SMLC-DNS1
+    node_definition: alpine
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -1697
+    y: -153
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration:
+      - name: node.cfg
+        content: |-
+          #!/bin/sh
+          # MedSyn Web Server
+          # IP: 10.10.10.13/26, GW: 10.10.10.1
+
+          hostname SMLC-WEB1
+
+          ip addr flush dev eth0
+          ip addr add 10.10.10.13/26 dev eth0
+          ip link set eth0 up
+          ip route add default via 10.10.10.1
+          echo "nameserver 10.10.10.12" > /etc/resolv.conf
+
+          apk update && apk add lighttpd
+
+          mkdir -p /var/www/localhost/htdocs
+          cat > /var/www/localhost/htdocs/index.html << 'HTMLEOF'
+          <!DOCTYPE html>
+          <html>
+          <head><title>MedSyn Company - Internal Web Portal</title></head>
+          <body>
+          <h1>MedSyn Company Internal Web Portal</h1>
+          <p>Server: SMLC-WEB1 | IP: 10.10.10.13 | Zone: DMZ</p>
+          </body>
+          </html>
+          HTMLEOF
+
+          rc-update add lighttpd default
+          rc-service lighttpd start
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n8
+    image_definition: null
+    label: SMLC-WEB1
+    node_definition: alpine
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -1602
+    y: -437
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration:
+      - name: node.cfg
+        content: |-
+          #!/bin/sh
+          # MedSyn Email Server
+          # IP: 10.10.10.14/26, GW: 10.10.10.1
+
+          hostname SMLC-MAIL1
+
+          ip addr flush dev eth0
+          ip addr add 10.10.10.14/26 dev eth0
+          ip link set eth0 up
+          ip route add default via 10.10.10.1
+          echo "nameserver 10.10.10.12" > /etc/resolv.conf
+
+          apk update && apk add postfix
+
+          cat > /etc/postfix/main.cf << 'MAILEOF'
+          myhostname = SMLC-MAIL1.medsyn.lab
+          mydomain = medsyn.lab
+          myorigin = $mydomain
+          inet_interfaces = all
+          inet_protocols = ipv4
+          mydestination = $myhostname, localhost.$mydomain, localhost, $mydomain
+          mynetworks = 10.10.10.0/26, 172.16.0.0/12, 172.17.0.0/16
+          smtpd_banner = $myhostname ESMTP MedSyn Mail
+          MAILEOF
+
+          rc-update add postfix default
+          rc-service postfix start
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n9
+    image_definition: null
+    label: SMLC-MAIL1
+    node_definition: alpine
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -1706
+    y: -316
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration:
+      - name: node.cfg
+        content: |-
+          #!/bin/sh
+          # MedSyn FTP Server
+          # IP: 10.10.10.15/26, GW: 10.10.10.1
+
+          hostname SMLC-FTP1
+
+          ip addr flush dev eth0
+          ip addr add 10.10.10.15/26 dev eth0
+          ip link set eth0 up
+          ip route add default via 10.10.10.1
+          echo "nameserver 10.10.10.12" > /etc/resolv.conf
+
+          apk update && apk add vsftpd
+
+          cat > /etc/vsftpd/vsftpd.conf << 'FTPEOF'
+          listen=YES
+          anonymous_enable=NO
+          local_enable=YES
+          write_enable=YES
+          local_umask=022
+          dirmessage_enable=YES
+          xferlog_enable=YES
+          connect_from_port_20=YES
+          xferlog_std_format=YES
+          ftpd_banner=MedSyn FTP Server - Authorised Users Only
+          chroot_local_user=YES
+          allow_writeable_chroot=YES
+          pasv_enable=YES
+          pasv_min_port=50000
+          pasv_max_port=50100
+          FTPEOF
+
+          adduser -D ftpuser
+          echo "ftpuser:MedSyn@2024" | chpasswd
+
+          rc-update add vsftpd default
+          rc-service vsftpd start
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n10
+    image_definition: null
+    label: SMLC-FTP1
+    node_definition: alpine
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -1484
+    y: -485
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          hostname ISP-HQ1
+          !
+          no ip domain-lookup
+          ip domain-name medsyn.lab
+          !
+          banner motd ^UNAUTHORISED ACCESS IS PROHIBITED - ISP-HQ1^
+          !
+          username admin privilege 15 secret MedSyn@2024
+          enable secret MedSyn@2024
+          service password-encryption
+          !
+          ip ssh version 2
+          !
+          interface Loopback0
+           ip address 3.3.3.1 255.255.255.255
+           no shutdown
+          !
+          interface GigabitEthernet0/0
+           description LINK_TO_HQ_FWL1_OUTSIDE
+           ip address 203.0.113.1 255.255.255.252
+           no shutdown
+          !
+          interface GigabitEthernet0/1
+           description LINK_TO_HQ_FWL2_OUTSIDE
+           ip address 203.0.113.5 255.255.255.252
+           no shutdown
+          !
+          interface GigabitEthernet0/2
+           description LINK_TO_INTERNET
+           ip address 192.0.2.2 255.255.255.252
+           no shutdown
+          !
+          router ospf 15
+           router-id 3.3.3.1
+           log-adjacency-changes
+           network 3.3.3.1 0.0.0.0 area 0
+           network 192.0.2.0 0.0.0.3 area 0
+           network 203.0.113.0 0.0.0.3 area 0
+           network 203.0.113.4 0.0.0.3 area 0
+          !
+          ip classless
+          !
+          line con 0
+           exec-timeout 5 0
+           login local
+          line vty 0 4
+           login local
+           transport input ssh
+          line vty 5 15
+           login local
+           transport input ssh
+          !
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n11
+    image_definition: null
+    label: ISP-HQ1
+    node_definition: iosv
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -593
+    y: -575
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: null
+        type: physical
+        slot: 3
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          hostname ISP-HQ2
+          !
+          no ip domain-lookup
+          ip domain-name medsyn.lab
+          !
+          banner motd ^UNAUTHORISED ACCESS IS PROHIBITED - ISP-HQ2^
+          !
+          username admin privilege 15 secret MedSyn@2024
+          enable secret MedSyn@2024
+          service password-encryption
+          !
+          ip ssh version 2
+          !
+          interface Loopback0
+           ip address 3.3.3.2 255.255.255.255
+           no shutdown
+          !
+          interface GigabitEthernet0/0
+           description LINK_TO_SMLC-HQ-FW2_OUTSIDE2
+           ip address 203.0.113.9 255.255.255.252
+           no shutdown
+          !
+          interface GigabitEthernet0/1
+           description LINK_TO_SMLC-HQ-FW1_OUTSIDE2
+           ip address 203.0.113.13 255.255.255.252
+           no shutdown
+          !
+          interface GigabitEthernet0/2
+           description LINK_TO_INTERNET
+           ip address 192.0.2.10 255.255.255.252
+           no shutdown
+          !
+          router ospf 15
+           router-id 3.3.3.2
+           log-adjacency-changes
+           network 3.3.3.2 0.0.0.0 area 0
+           network 192.0.2.8 0.0.0.3 area 0
+           network 203.0.113.8 0.0.0.3 area 0
+           network 203.0.113.12 0.0.0.3 area 0
+          !
+          ip classless
+          !
+          line con 0
+           exec-timeout 5 0
+           login local
+          line vty 0 4
+           login local
+           transport input ssh
+          line vty 5 15
+           login local
+           transport input ssh
+          !
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n12
+    image_definition: null
+    label: ISP-HQ2
+    node_definition: iosv
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -402
+    y: -552
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: null
+        type: physical
+        slot: 3
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          hostname INTERNET
+          !
+          no ip domain-lookup
+          ip domain-name medsyn.lab
+          !
+          banner motd ^UNAUTHORISED ACCESS IS PROHIBITED - INTERNET ROUTER^
+          !
+          username admin privilege 15 secret MedSyn@2024
+          enable secret MedSyn@2024
+          service password-encryption
+          !
+          ip ssh version 2
+          !
+          interface Loopback0
+           ip address 4.4.4.1 255.255.255.255
+           no shutdown
+          !
+          interface GigabitEthernet0/0
+           description LINK_TO_ISP1
+           ip address 192.0.2.1 255.255.255.252
+           no shutdown
+          !
+          interface GigabitEthernet0/1
+           description LINK_TO_BRANCH_ISP
+           ip address 192.0.2.5 255.255.255.252
+           no shutdown
+          !
+          interface GigabitEthernet0/2
+           description LINK_TO_ISP2
+           ip address 192.0.2.9 255.255.255.252
+           no shutdown
+          !
+          interface GigabitEthernet0/3
+           description GOOGLE_CLOUD_SEGMENT
+           ip address 192.0.2.129 255.255.255.128
+           no shutdown
+          !
+          router ospf 15
+           router-id 4.4.4.1
+           log-adjacency-changes
+           network 4.4.4.1 0.0.0.0 area 0
+           network 192.0.2.0 0.0.0.3 area 0
+           network 192.0.2.4 0.0.0.3 area 0
+           network 192.0.2.8 0.0.0.3 area 0
+           network 192.0.2.128 0.0.0.127 area 0
+          !
+          ip classless
+          !
+          line con 0
+           exec-timeout 5 0
+           login local
+          line vty 0 4
+           login local
+           transport input ssh
+          line vty 5 15
+           login local
+           transport input ssh
+          !
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n13
+    image_definition: null
+    label: INTERNET
+    node_definition: iosv
+    parameters: {}
+    priority: null
+    pyats:
+      username: admin
+      password: MedSyn@2024
+      enable_password: MedSyn@2024
+    ram: null
+    tags: []
+    x: 201
+    y: -661
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: null
+        type: physical
+        slot: 3
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          hostname EXT-SW1
+          !
+          no ip domain-lookup
+          ip domain-name medsyn.lab
+          !
+          username admin privilege 15 secret MedSyn@2024
+          enable secret MedSyn@2024
+          service password-encryption
+          !
+          spanning-tree mode rapid-pvst
+          spanning-tree extend system-id
+          !
+          interface GigabitEthernet0/0
+           description LINK_TO_INTERNET_G0/3
+           switchport mode access
+           spanning-tree portfast
+           no shutdown
+          !
+          interface GigabitEthernet0/1
+           description LINK_TO_EXT-DNS1
+           switchport mode access
+           spanning-tree portfast
+           no shutdown
+          !
+          interface GigabitEthernet0/2
+           description LINK_TO_EXT-WEB1
+           switchport mode access
+           spanning-tree portfast
+           no shutdown
+          !
+          interface GigabitEthernet0/3
+           switchport mode access
+           spanning-tree portfast
+           no shutdown
+          !
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n14
+    image_definition: null
+    label: EXT-SW1
+    node_definition: iosvl2
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: 192
+    y: -914
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: null
+        type: physical
+        slot: 3
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          hostname SMLC-HQ-MgmtAdmin-SW1
+          !
+          no ip domain-lookup
+          ip domain-name medsyn.lab
+          !
+          username admin privilege 15 secret MedSyn@2024
+          enable secret MedSyn@2024
+          service password-encryption
+          !
+          ip ssh version 2
+          spanning-tree mode rapid-pvst
+          spanning-tree extend system-id
+          spanning-tree portfast default
+          spanning-tree portfast bpduguard default
+          !
+          vlan 10
+           name Management
+          !
+          vlan 20
+           name LAN-Voice
+          !
+          vlan 50
+           name WLAN
+          !
+          vlan 99
+           name BLACKHOLE
+          !
+          interface GigabitEthernet0/0
+           description UPLINK_TO_SMLC-HQ-CoreSW1
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50
+           switchport trunk native vlan 99
+           spanning-tree portfast disable
+           no shutdown
+          !
+          interface GigabitEthernet0/1
+           description UPLINK_TO_SMLC-HQ-CoreSW2
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50
+           switchport trunk native vlan 99
+           spanning-tree portfast disable
+           no shutdown
+          !
+          interface GigabitEthernet0/2
+           description ACCESS_SMLC-HQ-Mgmt-PC1_VLAN20
+           switchport access vlan 20
+           switchport mode access
+           spanning-tree portfast
+           spanning-tree bpduguard enable
+           no shutdown
+          !
+          interface GigabitEthernet0/3
+           description ACCESS_SMLC-HQ-Mgmt-PC2_VLAN20
+           switchport access vlan 20
+           switchport mode access
+           spanning-tree portfast
+           spanning-tree bpduguard enable
+           no shutdown
+          !
+          interface GigabitEthernet1/0
+           description ACCESS_SMLC-HQ-MgmtAdmin-PRN1_VLAN10
+           switchport access vlan 10
+           switchport mode access
+           spanning-tree portfast
+           spanning-tree bpduguard enable
+           no shutdown
+          !
+          interface GigabitEthernet1/1
+           description ACCESS_SMLC-HQ-MgmtAdmin-AP1_VLAN10
+           switchport access vlan 10
+           switchport mode access
+           spanning-tree portfast
+           spanning-tree bpduguard enable
+           no shutdown
+          !
+          interface GigabitEthernet1/2
+           description ACCESS_SMLC-HQ-Admin-PC2_VLAN10
+           switchport access vlan 10
+           switchport mode access
+           spanning-tree portfast
+           spanning-tree bpduguard enable
+           no shutdown
+          !
+          interface GigabitEthernet1/3
+           description ACCESS_SMLC-HQ-Admin-PC1_VLAN10
+           switchport access vlan 10
+           switchport mode access
+           spanning-tree portfast
+           spanning-tree bpduguard enable
+           no shutdown
+          !
+          interface GigabitEthernet2/0
+           description UNUSED
+           shutdown
+          !
+          interface Vlan10
+           description MANAGEMENT_IN_BAND_MGMT
+           ip address 172.16.10.10 255.255.255.0
+           no shutdown
+          !
+          ip default-gateway 172.16.10.1
+          !
+          access-list 10 permit 172.16.10.0 0.0.0.255
+          access-list 10 deny any
+          !
+          banner motd ^UNAUTHORISED ACCESS IS PROHIBITED - SMLC-HQ-MgmtAdmin-SW1^
+          !
+          line con 0
+           exec-timeout 5 0
+           login local
+          line vty 0 4
+           access-class 10 in
+           login local
+           transport input ssh
+          line vty 5 15
+           access-class 10 in
+           login local
+           transport input ssh
+          !
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n15
+    image_definition: null
+    label: SMLC-HQ-MgmtAdmin-SW1
+    node_definition: iosvl2
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -1873
+    y: 558
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: null
+        type: physical
+        slot: 3
+      - id: i5
+        label: GigabitEthernet1/0
+        mac_address: null
+        type: physical
+        slot: 4
+      - id: i6
+        label: GigabitEthernet1/1
+        mac_address: null
+        type: physical
+        slot: 5
+      - id: i7
+        label: GigabitEthernet1/2
+        mac_address: null
+        type: physical
+        slot: 6
+      - id: i8
+        label: GigabitEthernet1/3
+        mac_address: null
+        type: physical
+        slot: 7
+      - id: i9
+        label: GigabitEthernet2/0
+        mac_address: null
+        type: physical
+        slot: 8
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          hostname SMLC-HQ-BizOps-SW1
+          !
+          no ip domain-lookup
+          ip domain-name medsyn.lab
+          !
+          username admin privilege 15 secret MedSyn@2024
+          enable secret MedSyn@2024
+          service password-encryption
+          !
+          spanning-tree mode rapid-pvst
+          spanning-tree portfast default
+          spanning-tree portfast bpduguard default
+          !
+          vlan 10
+           name Management
+          !
+          vlan 20
+           name LAN-Voice
+          !
+          vlan 50
+           name WLAN
+          !
+          vlan 99
+           name BLACKHOLE
+          !
+          interface GigabitEthernet0/0
+           description UPLINK_TO_SMLC-HQ-CoreSW1
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50
+           switchport trunk native vlan 99
+           spanning-tree portfast disable
+           no shutdown
+          !
+          interface GigabitEthernet0/1
+           description UPLINK_TO_SMLC-HQ-CoreSW2
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50
+           switchport trunk native vlan 99
+           spanning-tree portfast disable
+           no shutdown
+          !
+          interface GigabitEthernet0/2
+           description ACCESS_SMLC-HQ-BizOps-PC1_VLAN20
+           switchport access vlan 20
+           switchport mode access
+           spanning-tree portfast
+           no shutdown
+          !
+          interface GigabitEthernet0/3
+           description ACCESS_SMLC-HQ-BizOps-PC2_VLAN20
+           switchport access vlan 20
+           switchport mode access
+           spanning-tree portfast
+           no shutdown
+          !
+          interface GigabitEthernet1/0
+           description ACCESS_SMLC-HQ-BizOps-PRN1_VLAN20
+           switchport access vlan 20
+           switchport mode access
+           spanning-tree portfast
+           no shutdown
+          !
+          interface GigabitEthernet1/1
+           description ACCESS_SMLC-HQ-BizOps-AP1_VLAN20
+           switchport access vlan 20
+           switchport mode access
+           spanning-tree portfast
+           no shutdown
+          !
+          interface GigabitEthernet1/2
+           description ACCESS_SMLC-HQ-BizOps-TAB1_VLAN20
+           switchport access vlan 20
+           switchport mode access
+           spanning-tree portfast
+           no shutdown
+          !
+          interface GigabitEthernet1/3
+           description ACCESS_SMLC-HQ-BizOps-MOB1_VLAN20
+           switchport access vlan 20
+           switchport mode access
+           spanning-tree portfast
+           no shutdown
+          !
+          interface GigabitEthernet2/0
+           description ACCESS_SMLC-HQ-BizOps-LAP2_VLAN20
+           switchport access vlan 20
+           switchport mode access
+           spanning-tree portfast
+           no shutdown
+          !
+          interface Vlan10
+           ip address 172.16.10.11 255.255.255.0
+           no shutdown
+          !
+          ip default-gateway 172.16.10.1
+          !
+          banner motd ^UNAUTHORISED ACCESS IS PROHIBITED - SMLC-HQ-BizOps-SW1^
+          !
+          line con 0
+           exec-timeout 5 0
+           login local
+          line vty 0 4
+           login local
+           transport input ssh
+          !
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n16
+    image_definition: null
+    label: SMLC-HQ-BizOps-SW1
+    node_definition: iosvl2
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -1302
+    y: 560
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: null
+        type: physical
+        slot: 3
+      - id: i5
+        label: GigabitEthernet1/0
+        mac_address: null
+        type: physical
+        slot: 4
+      - id: i6
+        label: GigabitEthernet1/1
+        mac_address: null
+        type: physical
+        slot: 5
+      - id: i7
+        label: GigabitEthernet1/2
+        mac_address: null
+        type: physical
+        slot: 6
+      - id: i8
+        label: GigabitEthernet1/3
+        mac_address: null
+        type: physical
+        slot: 7
+      - id: i9
+        label: GigabitEthernet2/0
+        mac_address: null
+        type: physical
+        slot: 8
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          hostname SMLC-HQ-Finance-SW1
+          !
+          no ip domain-lookup
+          ip domain-name medsyn.lab
+          !
+          username admin privilege 15 secret MedSyn@2024
+          enable secret MedSyn@2024
+          service password-encryption
+          !
+          spanning-tree mode rapid-pvst
+          spanning-tree portfast default
+          spanning-tree portfast bpduguard default
+          !
+          vlan 10
+           name Management
+          !
+          vlan 20
+           name LAN-Voice
+          !
+          vlan 50
+           name WLAN
+          !
+          vlan 99
+           name BLACKHOLE
+          !
+          interface GigabitEthernet0/0
+           description UPLINK_TO_SMLC-HQ-CoreSW1
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50
+           switchport trunk native vlan 99
+           spanning-tree portfast disable
+           no shutdown
+          !
+          interface GigabitEthernet0/1
+           description UPLINK_TO_SMLC-HQ-CoreSW2
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50
+           switchport trunk native vlan 99
+           spanning-tree portfast disable
+           no shutdown
+          !
+          interface GigabitEthernet0/2
+           switchport access vlan 20
+           switchport mode access
+           spanning-tree portfast
+           no shutdown
+          !
+          interface GigabitEthernet0/3
+           switchport access vlan 20
+           switchport mode access
+           spanning-tree portfast
+           no shutdown
+          !
+          interface GigabitEthernet1/0
+           switchport access vlan 20
+           switchport mode access
+           spanning-tree portfast
+           no shutdown
+          !
+          interface GigabitEthernet1/1
+           switchport access vlan 20
+           switchport mode access
+           spanning-tree portfast
+           no shutdown
+          !
+          interface GigabitEthernet1/2
+           switchport access vlan 20
+           switchport mode access
+           spanning-tree portfast
+           no shutdown
+          !
+          interface GigabitEthernet1/3
+           switchport access vlan 20
+           switchport mode access
+           spanning-tree portfast
+           no shutdown
+          !
+          interface GigabitEthernet2/0
+           switchport access vlan 20
+           switchport mode access
+           spanning-tree portfast
+           no shutdown
+          !
+          interface Vlan10
+           ip address 172.16.10.12 255.255.255.0
+           no shutdown
+          !
+          ip default-gateway 172.16.10.1
+          !
+          banner motd ^UNAUTHORISED ACCESS IS PROHIBITED - SMLC-HQ-Finance-SW1^
+          !
+          line con 0
+           login local
+          line vty 0 4
+           login local
+           transport input ssh
+          !
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n17
+    image_definition: null
+    label: SMLC-HQ-Finance-SW1
+    node_definition: iosvl2
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -734
+    y: 557
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: null
+        type: physical
+        slot: 3
+      - id: i5
+        label: GigabitEthernet1/0
+        mac_address: null
+        type: physical
+        slot: 4
+      - id: i6
+        label: GigabitEthernet1/1
+        mac_address: null
+        type: physical
+        slot: 5
+      - id: i7
+        label: GigabitEthernet1/2
+        mac_address: null
+        type: physical
+        slot: 6
+      - id: i8
+        label: GigabitEthernet1/3
+        mac_address: null
+        type: physical
+        slot: 7
+      - id: i9
+        label: GigabitEthernet2/0
+        mac_address: null
+        type: physical
+        slot: 8
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          hostname SMLC-HQ-TechOps-SW1
+          !
+          no ip domain-lookup
+          ip domain-name medsyn.lab
+          !
+          username admin privilege 15 secret MedSyn@2024
+          enable secret MedSyn@2024
+          service password-encryption
+          !
+          spanning-tree mode rapid-pvst
+          spanning-tree portfast default
+          spanning-tree portfast bpduguard default
+          !
+          vlan 10
+           name Management
+          !
+          vlan 20
+           name LAN-Voice
+          !
+          vlan 50
+           name WLAN
+          !
+          vlan 99
+           name BLACKHOLE
+          !
+          interface GigabitEthernet0/0
+           description UPLINK_TO_SMLC-HQ-CoreSW1
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50
+           switchport trunk native vlan 99
+           spanning-tree portfast disable
+           no shutdown
+          !
+          interface GigabitEthernet0/1
+           description UPLINK_TO_SMLC-HQ-CoreSW2
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50
+           switchport trunk native vlan 99
+           spanning-tree portfast disable
+           no shutdown
+          !
+          interface GigabitEthernet0/2
+           switchport access vlan 20
+           switchport mode access
+           spanning-tree portfast
+           no shutdown
+          !
+          interface GigabitEthernet0/3
+           switchport access vlan 20
+           switchport mode access
+           spanning-tree portfast
+           no shutdown
+          !
+          interface GigabitEthernet1/0
+           switchport access vlan 20
+           switchport mode access
+           spanning-tree portfast
+           no shutdown
+          !
+          interface GigabitEthernet1/1
+           switchport access vlan 20
+           switchport mode access
+           spanning-tree portfast
+           no shutdown
+          !
+          interface GigabitEthernet1/2
+           switchport access vlan 20
+           switchport mode access
+           spanning-tree portfast
+           no shutdown
+          !
+          interface GigabitEthernet1/3
+           switchport access vlan 20
+           switchport mode access
+           spanning-tree portfast
+           no shutdown
+          !
+          interface GigabitEthernet2/0
+           switchport access vlan 20
+           switchport mode access
+           spanning-tree portfast
+           no shutdown
+          !
+          interface Vlan10
+           ip address 172.16.10.13 255.255.255.0
+           no shutdown
+          !
+          ip default-gateway 172.16.10.1
+          !
+          line con 0
+           login local
+          line vty 0 4
+           login local
+           transport input ssh
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n18
+    image_definition: null
+    label: SMLC-HQ-TechOps-SW1
+    node_definition: iosvl2
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -40
+    y: 560
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: null
+        type: physical
+        slot: 3
+      - id: i5
+        label: GigabitEthernet1/0
+        mac_address: null
+        type: physical
+        slot: 4
+      - id: i6
+        label: GigabitEthernet1/1
+        mac_address: null
+        type: physical
+        slot: 5
+      - id: i7
+        label: GigabitEthernet1/2
+        mac_address: null
+        type: physical
+        slot: 6
+      - id: i8
+        label: GigabitEthernet1/3
+        mac_address: null
+        type: physical
+        slot: 7
+      - id: i9
+        label: GigabitEthernet2/0
+        mac_address: null
+        type: physical
+        slot: 8
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n19
+    image_definition: null
+    label: SMLC-HQ-WLC1
+    node_definition: alpine
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -1155
+    y: 185
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i1
+        label: eth1
+        mac_address: null
+        type: physical
+        slot: 1
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          hostname ISP-BR1
+          !
+          no ip domain-lookup
+          ip domain-name medsyn.lab
+          !
+          banner motd ^UNAUTHORISED ACCESS IS PROHIBITED - ISP-BR1^
+          !
+          username admin privilege 15 secret MedSyn@2024
+          enable secret MedSyn@2024
+          service password-encryption
+          !
+          ip ssh version 2
+          !
+          interface Loopback0
+           ip address 5.5.5.1 255.255.255.255
+           no shutdown
+          !
+          interface GigabitEthernet0/0
+           description LINK_TO_SMLC-BR-FW1_OUTSIDE
+           ip address 198.51.100.1 255.255.255.252
+           no shutdown
+          !
+          interface GigabitEthernet0/1
+           description LINK_TO_INTERNET
+           ip address 192.0.2.6 255.255.255.252
+           no shutdown
+          !
+          router ospf 15
+           router-id 5.5.5.1
+           log-adjacency-changes
+           network 5.5.5.1 0.0.0.0 area 0
+           network 192.0.2.4 0.0.0.3 area 0
+           network 198.51.100.0 0.0.0.3 area 0
+          !
+          ip classless
+          !
+          line con 0
+           exec-timeout 5 0
+           login local
+          line vty 0 4
+           login local
+           transport input ssh
+          line vty 5 15
+           login local
+           transport input ssh
+          !
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n20
+    image_definition: null
+    label: ISP-BR1
+    node_definition: iosv
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: 1240
+    y: -600
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: null
+        type: physical
+        slot: 3
+  - boot_disk_size: null
+    configuration:
+      - name: day0-config
+        content: |-
+          hostname SMLC-BR-FW1
+          domain-name medsyn.lab
+          !
+          username admin password MedSyn@2024 privilege 15
+          enable password MedSyn@2024
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n21
+    image_definition: null
+    label: SMLC-BR-FW1
+    node_definition: asav
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: 1248
+    y: -174
+    interfaces:
+      - id: i0
+        label: Management0/0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: null
+        type: physical
+        slot: 3
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          hostname SMLC-BR-CoreSW1
+          !
+          no ip domain-lookup
+          ip domain-name medsyn.lab
+          ip routing
+          !
+          username admin privilege 15 secret MedSyn@2024
+          enable secret MedSyn@2024
+          service password-encryption
+          !
+          ip ssh version 2
+          spanning-tree mode rapid-pvst
+          spanning-tree extend system-id
+          !
+          vlan 10
+           name Branch-Management
+          !
+          vlan 20
+           name Branch-LAN-Voice
+          !
+          vlan 50
+           name Branch-WLAN
+          !
+          vlan 99
+           name BLACKHOLE
+          !
+          interface GigabitEthernet0/0
+           description LINK_TO_SMLC-BR-FW1_INSIDE1
+           no switchport
+           ip address 10.10.1.1 255.255.255.252
+           no shutdown
+          !
+          interface GigabitEthernet0/1
+           description TRUNK_TO_SMLC-BR-TechOps-SW1
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50
+           switchport trunk native vlan 99
+           no shutdown
+          !
+          interface GigabitEthernet0/2
+           description TRUNK_TO_SMLC-BR-FieldOps-SW1
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50
+           switchport trunk native vlan 99
+           no shutdown
+          !
+          interface GigabitEthernet0/3
+           description ETHERCHANNEL_TO_SMLC-BR-CoreSW2_LINK1
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50,99
+           channel-group 1 mode active
+           no shutdown
+          !
+          interface GigabitEthernet1/0
+           description ETHERCHANNEL_TO_SMLC-BR-CoreSW2_LINK2
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50,99
+           channel-group 1 mode active
+           no shutdown
+          !
+          interface GigabitEthernet1/1
+           description ETHERCHANNEL_TO_SMLC-BR-CoreSW2_LINK3
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50,99
+           channel-group 1 mode active
+           no shutdown
+          !
+          interface GigabitEthernet1/2
+           description ACCESS_TO_BRANCH_WLC_VLAN50
+           switchport access vlan 50
+           switchport mode access
+           spanning-tree portfast
+           no shutdown
+          !
+          interface GigabitEthernet1/3
+           description TRUNK_TO_SMLC-BR-BizOps-SW1
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50
+           switchport trunk native vlan 99
+           no shutdown
+          !
+          interface GigabitEthernet2/0
+           description TRUNK_TO_SMLC-BR-Support-SW1
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50
+           switchport trunk native vlan 99
+           no shutdown
+          !
+          interface Port-channel1
+           description LACP_ETHERCHANNEL_TO_SMLC-BR-CoreSW2
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50,99
+          !
+          interface Vlan10
+           description BRANCH_MANAGEMENT_SVI
+           ip address 172.17.10.3 255.255.255.0
+           ip helper-address 10.10.10.10
+           ip helper-address 10.10.10.11
+           standby version 2
+           standby 10 ip 172.17.10.1
+           standby 10 priority 110
+           standby 10 preempt delay minimum 30
+           standby 10 timers 3 10
+           no shutdown
+          !
+          interface Vlan20
+           description BRANCH_LAN_SVI
+           ip address 172.17.20.3 255.255.252.0
+           ip helper-address 10.10.10.10
+           ip helper-address 10.10.10.11
+           standby version 2
+           standby 20 ip 172.17.20.1
+           standby 20 priority 110
+           standby 20 preempt delay minimum 30
+           standby 20 timers 3 10
+           no shutdown
+          !
+          interface Vlan50
+           description BRANCH_WLAN_SVI
+           ip address 172.17.50.3 255.255.252.0
+           ip helper-address 10.10.10.10
+           ip helper-address 10.10.10.11
+           standby version 2
+           standby 50 ip 172.17.50.1
+           standby 50 priority 110
+           standby 50 preempt delay minimum 30
+           standby 50 timers 3 10
+           no shutdown
+          !
+          router ospf 15
+           router-id 7.7.7.1
+           log-adjacency-changes
+           passive-interface default
+           no passive-interface GigabitEthernet0/0
+           network 10.10.1.0 0.0.0.3 area 0
+           network 172.17.10.0 0.0.0.255 area 0
+           network 172.17.20.0 0.0.3.255 area 0
+           network 172.17.50.0 0.0.3.255 area 0
+          !
+          ip classless
+          !
+          banner motd ^UNAUTHORISED ACCESS IS PROHIBITED - SMLC-BR-CoreSW1^
+          !
+          line con 0
+           login local
+          line vty 0 4
+           login local
+           transport input ssh
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n22
+    image_definition: null
+    label: SMLC-BR-CoreSW1
+    node_definition: iosvl2
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: 1288
+    y: 224
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: null
+        type: physical
+        slot: 3
+      - id: i5
+        label: GigabitEthernet1/0
+        mac_address: null
+        type: physical
+        slot: 4
+      - id: i6
+        label: GigabitEthernet1/1
+        mac_address: null
+        type: physical
+        slot: 5
+      - id: i7
+        label: GigabitEthernet1/2
+        mac_address: null
+        type: physical
+        slot: 6
+      - id: i8
+        label: GigabitEthernet1/3
+        mac_address: null
+        type: physical
+        slot: 7
+      - id: i9
+        label: GigabitEthernet2/0
+        mac_address: null
+        type: physical
+        slot: 8
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          hostname SMLC-BR-CoreSW2
+          !
+          no ip domain-lookup
+          ip domain-name medsyn.lab
+          ip routing
+          !
+          username admin privilege 15 secret MedSyn@2024
+          enable secret MedSyn@2024
+          service password-encryption
+          !
+          ip ssh version 2
+          spanning-tree mode rapid-pvst
+          spanning-tree extend system-id
+          !
+          vlan 10
+           name Branch-Management
+          !
+          vlan 20
+           name Branch-LAN-Voice
+          !
+          vlan 50
+           name Branch-WLAN
+          !
+          vlan 99
+           name BLACKHOLE
+          !
+          interface GigabitEthernet0/0
+           description LINK_TO_SMLC-BR-FW1_INSIDE2
+           no switchport
+           ip address 10.10.1.5 255.255.255.252
+           no shutdown
+          !
+          interface GigabitEthernet0/1
+           description TRUNK_TO_SMLC-BR-TechOps-SW1_DUAL_HOME
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50
+           switchport trunk native vlan 99
+           no shutdown
+          !
+          interface GigabitEthernet0/2
+           description TRUNK_TO_SMLC-BR-FieldOps-SW1_DUAL_HOME
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50
+           switchport trunk native vlan 99
+           no shutdown
+          !
+          interface GigabitEthernet0/3
+           description ETHERCHANNEL_TO_SMLC-BR-CoreSW1_LINK1
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50,99
+           channel-group 1 mode passive
+           no shutdown
+          !
+          interface GigabitEthernet1/0
+           description ETHERCHANNEL_TO_SMLC-BR-CoreSW1_LINK2
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50,99
+           channel-group 1 mode passive
+           no shutdown
+          !
+          interface GigabitEthernet1/1
+           description ETHERCHANNEL_TO_SMLC-BR-CoreSW1_LINK3
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50,99
+           channel-group 1 mode passive
+           no shutdown
+          !
+          interface GigabitEthernet1/2
+           description TRUNK_TO_SMLC-BR-BizOps-SW1_DUAL_HOME
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50
+           switchport trunk native vlan 99
+           no shutdown
+          !
+          interface GigabitEthernet1/3
+           description TRUNK_TO_SMLC-BR-Support-SW1_DUAL_HOME
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50
+           switchport trunk native vlan 99
+           no shutdown
+          !
+          interface Port-channel1
+           description LACP_ETHERCHANNEL_TO_SMLC-BR-CoreSW1
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50,99
+          !
+          interface Vlan10
+           ip address 172.17.10.2 255.255.255.0
+           ip helper-address 10.10.10.10
+           ip helper-address 10.10.10.11
+           standby version 2
+           standby 10 ip 172.17.10.1
+           standby 10 priority 100
+           standby 10 preempt
+           no shutdown
+          !
+          interface Vlan20
+           ip address 172.17.20.2 255.255.252.0
+           ip helper-address 10.10.10.10
+           ip helper-address 10.10.10.11
+           standby version 2
+           standby 20 ip 172.17.20.1
+           standby 20 priority 100
+           standby 20 preempt
+           no shutdown
+          !
+          interface Vlan50
+           ip address 172.17.50.2 255.255.252.0
+           ip helper-address 10.10.10.10
+           ip helper-address 10.10.10.11
+           standby version 2
+           standby 50 ip 172.17.50.1
+           standby 50 priority 100
+           standby 50 preempt
+           no shutdown
+          !
+          router ospf 15
+           router-id 7.7.7.2
+           log-adjacency-changes
+           passive-interface default
+           no passive-interface GigabitEthernet0/0
+           network 10.10.1.4 0.0.0.3 area 0
+           network 172.17.10.0 0.0.0.255 area 0
+           network 172.17.20.0 0.0.3.255 area 0
+           network 172.17.50.0 0.0.3.255 area 0
+          !
+          ip classless
+          !
+          line con 0
+           login local
+          line vty 0 4
+           login local
+           transport input ssh
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n23
+    image_definition: null
+    label: SMLC-BR-CoreSW2
+    node_definition: iosvl2
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: 1922
+    y: 234
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: null
+        type: physical
+        slot: 3
+      - id: i5
+        label: GigabitEthernet1/0
+        mac_address: null
+        type: physical
+        slot: 4
+      - id: i6
+        label: GigabitEthernet1/1
+        mac_address: null
+        type: physical
+        slot: 5
+      - id: i7
+        label: GigabitEthernet1/2
+        mac_address: null
+        type: physical
+        slot: 6
+      - id: i8
+        label: GigabitEthernet1/3
+        mac_address: null
+        type: physical
+        slot: 7
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          hostname SMLC-BR-TechOps-SW1
+          !
+          no ip domain-lookup
+          ip domain-name medsyn.lab
+          !
+          username admin privilege 15 secret MedSyn@2024
+          enable secret MedSyn@2024
+          service password-encryption
+          !
+          spanning-tree mode rapid-pvst
+          spanning-tree portfast default
+          spanning-tree portfast bpduguard default
+          !
+          vlan 10
+           name Branch-Management
+          !
+          vlan 20
+           name Branch-LAN-Voice
+          !
+          vlan 50
+           name Branch-WLAN
+          !
+          vlan 99
+           name BLACKHOLE
+          !
+          interface GigabitEthernet0/0
+           description UPLINK_TO_SMLC-BR-CoreSW1
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50
+           switchport trunk native vlan 99
+           spanning-tree portfast disable
+           no shutdown
+          !
+          interface GigabitEthernet0/1
+           description UPLINK_TO_SMLC-BR-CoreSW2
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50
+           switchport trunk native vlan 99
+           spanning-tree portfast disable
+           no shutdown
+          !
+          interface GigabitEthernet0/2
+           description ACCESS_SMLC-BR-TechOps-PC1_VLAN20
+           switchport access vlan 20
+           switchport mode access
+           spanning-tree portfast
+           spanning-tree bpduguard enable
+           no shutdown
+          !
+          interface Vlan10
+           ip address 172.17.10.20 255.255.255.0
+           no shutdown
+          !
+          ip default-gateway 172.17.10.1
+          !
+          line con 0
+           login local
+          line vty 0 4
+           login local
+           transport input ssh
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n24
+    image_definition: null
+    label: SMLC-BR-TechOps-SW1
+    node_definition: iosvl2
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: 1294
+    y: 547
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: null
+        type: physical
+        slot: 3
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          hostname SMLC-BR-FieldOps-SW1
+          !
+          no ip domain-lookup
+          spanning-tree mode rapid-pvst
+          spanning-tree portfast default
+          !
+          username admin privilege 15 secret MedSyn@2024
+          enable secret MedSyn@2024
+          service password-encryption
+          !
+          vlan 10
+           name Branch-Management
+          !
+          vlan 20
+           name Branch-LAN-Voice
+          !
+          vlan 50
+           name Branch-WLAN
+          !
+          vlan 99
+           name BLACKHOLE
+          !
+          interface GigabitEthernet0/0
+           description UPLINK_TO_SMLC-BR-CoreSW1
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50
+           switchport trunk native vlan 99
+           spanning-tree portfast disable
+           no shutdown
+          !
+          interface GigabitEthernet0/1
+           description UPLINK_TO_SMLC-BR-CoreSW2
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50
+           switchport trunk native vlan 99
+           spanning-tree portfast disable
+           no shutdown
+          !
+          interface Vlan10
+           ip address 172.17.10.21 255.255.255.0
+           no shutdown
+          !
+          ip default-gateway 172.17.10.1
+          !
+          line con 0
+           login local
+          line vty 0 4
+           login local
+           transport input ssh
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n25
+    image_definition: null
+    label: SMLC-BR-FieldOps-SW1
+    node_definition: iosvl2
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: 1504
+    y: 555
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: null
+        type: physical
+        slot: 3
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          hostname SMLC-HQ-ITInfra-SW1
+          !
+          no ip domain-lookup
+          ip domain-name medsyn.lab
+          !
+          username admin privilege 15 secret MedSyn@2024
+          enable secret MedSyn@2024
+          service password-encryption
+          !
+          spanning-tree mode rapid-pvst
+          spanning-tree portfast default
+          spanning-tree portfast bpduguard default
+          !
+          vlan 10
+           name Management
+          !
+          vlan 20
+           name LAN-Voice
+          !
+          vlan 50
+           name WLAN
+          !
+          vlan 99
+           name BLACKHOLE
+          !
+          interface GigabitEthernet0/0
+           description UPLINK_TO_SMLC-HQ-CoreSW1
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50
+           switchport trunk native vlan 99
+           spanning-tree portfast disable
+           no shutdown
+          !
+          interface GigabitEthernet0/1
+           description UPLINK_TO_SMLC-HQ-CoreSW2
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50
+           switchport trunk native vlan 99
+           spanning-tree portfast disable
+           no shutdown
+          !
+          interface GigabitEthernet0/2
+           description SMLC-HQ-ITInfra-PC1_VLAN20
+           switchport access vlan 20
+           switchport mode access
+           spanning-tree portfast
+           no shutdown
+          !
+          interface GigabitEthernet0/3
+           description SMLC-HQ-ITInfra-PC2_VLAN20
+           switchport access vlan 20
+           switchport mode access
+           spanning-tree portfast
+           no shutdown
+          !
+          interface GigabitEthernet1/0
+           description SMLC-HQ-ITInfra-PRN1_VLAN20
+           switchport access vlan 20
+           switchport mode access
+           spanning-tree portfast
+           no shutdown
+          !
+          interface GigabitEthernet1/1
+           description SMLC-HQ-ITInfra-AP1_VLAN20
+           switchport access vlan 20
+           switchport mode access
+           spanning-tree portfast
+           no shutdown
+          !
+          interface GigabitEthernet1/2
+           description SMLC-HQ-ITInfra-TAB1_VLAN20
+           switchport access vlan 20
+           switchport mode access
+           spanning-tree portfast
+           no shutdown
+          !
+          interface GigabitEthernet1/3
+           description SMLC-HQ-ITInfra-MOB1_VLAN20
+           switchport access vlan 20
+           switchport mode access
+           spanning-tree portfast
+           no shutdown
+          !
+          interface GigabitEthernet2/0
+           description SMLC-HQ-ITInfra-LAP1_VLAN20
+           switchport access vlan 20
+           switchport mode access
+           spanning-tree portfast
+           no shutdown
+          !
+          interface GigabitEthernet2/1
+           description SMLC-HQ-ITInfra-AdminPC1_VLAN10
+           switchport access vlan 10
+           switchport mode access
+           spanning-tree portfast
+           no shutdown
+          !
+          interface GigabitEthernet2/2
+           description MGT2_VLAN10
+           switchport access vlan 10
+           switchport mode access
+           spanning-tree portfast
+           no shutdown
+          !
+          interface Vlan10
+           ip address 172.16.10.14 255.255.255.0
+           no shutdown
+          !
+          ip default-gateway 172.16.10.1
+          !
+          banner motd ^UNAUTHORISED ACCESS IS PROHIBITED - SMLC-HQ-ITInfra-SW1^
+          !
+          line con 0
+           login local
+          line vty 0 4
+           login local
+           transport input ssh
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n26
+    image_definition: null
+    label: SMLC-HQ-ITInfra-SW1
+    node_definition: iosvl2
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: 502
+    y: 556
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: null
+        type: physical
+        slot: 3
+      - id: i5
+        label: GigabitEthernet1/0
+        mac_address: null
+        type: physical
+        slot: 4
+      - id: i6
+        label: GigabitEthernet1/1
+        mac_address: null
+        type: physical
+        slot: 5
+      - id: i7
+        label: GigabitEthernet1/2
+        mac_address: null
+        type: physical
+        slot: 6
+      - id: i8
+        label: GigabitEthernet1/3
+        mac_address: null
+        type: physical
+        slot: 7
+      - id: i9
+        label: GigabitEthernet2/0
+        mac_address: null
+        type: physical
+        slot: 8
+      - id: i10
+        label: GigabitEthernet2/1
+        mac_address: null
+        type: physical
+        slot: 9
+      - id: i11
+        label: GigabitEthernet2/2
+        mac_address: null
+        type: physical
+        slot: 10
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          hostname SMLC-BR-BizOps-SW1
+          !
+          no ip domain-lookup
+          spanning-tree mode rapid-pvst
+          spanning-tree portfast default
+          !
+          username admin privilege 15 secret MedSyn@2024
+          enable secret MedSyn@2024
+          service password-encryption
+          !
+          vlan 10
+           name Branch-Management
+          !
+          vlan 20
+           name Branch-LAN-Voice
+          !
+          vlan 50
+           name Branch-WLAN
+          !
+          vlan 99
+           name BLACKHOLE
+          !
+          interface GigabitEthernet0/0
+           description UPLINK_TO_SMLC-BR-CoreSW1
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50
+           switchport trunk native vlan 99
+           spanning-tree portfast disable
+           no shutdown
+          !
+          interface GigabitEthernet0/1
+           description UPLINK_TO_SMLC-BR-CoreSW2
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50
+           switchport trunk native vlan 99
+           spanning-tree portfast disable
+           no shutdown
+          !
+          interface Vlan10
+           ip address 172.17.10.22 255.255.255.0
+           no shutdown
+          !
+          ip default-gateway 172.17.10.1
+          !
+          line con 0
+           login local
+          line vty 0 4
+           login local
+           transport input ssh
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n27
+    image_definition: null
+    label: SMLC-BR-BizOps-SW1
+    node_definition: iosvl2
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: 1722
+    y: 559
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: null
+        type: physical
+        slot: 3
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          hostname SMLC-BR-Support-SW1
+          !
+          no ip domain-lookup
+          spanning-tree mode rapid-pvst
+          spanning-tree portfast default
+          !
+          username admin privilege 15 secret MedSyn@2024
+          enable secret MedSyn@2024
+          service password-encryption
+          !
+          vlan 10
+           name Branch-Management
+          !
+          vlan 20
+           name Branch-LAN-Voice
+          !
+          vlan 50
+           name Branch-WLAN
+          !
+          vlan 99
+           name BLACKHOLE
+          !
+          interface GigabitEthernet0/0
+           description UPLINK_TO_SMLC-BR-CoreSW1
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50
+           switchport trunk native vlan 99
+           spanning-tree portfast disable
+           no shutdown
+          !
+          interface GigabitEthernet0/1
+           description UPLINK_TO_SMLC-BR-CoreSW2
+           switchport trunk encapsulation dot1q
+           switchport mode trunk
+           switchport trunk allowed vlan 10,20,50
+           switchport trunk native vlan 99
+           spanning-tree portfast disable
+           no shutdown
+          !
+          interface Vlan10
+           ip address 172.17.10.23 255.255.255.0
+           no shutdown
+          !
+          ip default-gateway 172.17.10.1
+          !
+          line con 0
+           login local
+          line vty 0 4
+           login local
+           transport input ssh
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n28
+    image_definition: null
+    label: SMLC-BR-Support-SW1
+    node_definition: iosvl2
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: 1932
+    y: 561
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: null
+        type: physical
+        slot: 3
+  - boot_disk_size: null
+    configuration:
+      - name: node.cfg
+        content: |-
+          #!/bin/sh
+          # EXT-DNS1 - Simulated cloud server
+          hostname EXT-DNS1
+          ip addr flush dev eth0
+          ip addr add 192.0.2.200/25 dev eth0
+          ip link set eth0 up
+          ip route add default via 192.0.2.129
+          echo "nameserver 8.8.8.8" > /etc/resolv.conf
+          apk update && apk add lighttpd
+          mkdir -p /var/www/localhost/htdocs
+          echo "<html><body><h1>MedSyn Simulated Google Cloud</h1></body></html>" > /var/www/localhost/htdocs/index.html
+          rc-service lighttpd start
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n29
+    image_definition: null
+    label: EXT-DNS1
+    node_definition: alpine
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: 32
+    y: -994
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n30
+    image_definition: null
+    label: EXT-WEB1
+    node_definition: desktop
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: 312
+    y: -994
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n31
+    image_definition: null
+    label: SMLC-HQ-ITInfra-AdminPC1
+    node_definition: desktop
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -1391
+    y: 259
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration:
+      - name: node.cfg
+        content: |-
+          #!/bin/sh
+          # SMLC-HQ-Mgmt-PC1 - Management Dept Regular PC1 - DHCP VLAN 20
+          hostname SMLC-HQ-Mgmt-PC1
+          ip link set eth0 up
+          udhcpc -i eth0 -x hostname:SMLC-HQ-Mgmt-PC1 &
+          echo "nameserver 10.10.10.12" > /etc/resolv.conf
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n32
+    image_definition: null
+    label: SMLC-HQ-Mgmt-PC1
+    node_definition: desktop
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -2221
+    y: 569
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration:
+      - name: node.cfg
+        content: |-
+          #!/bin/sh
+          # SMLC-HQ-Mgmt-PC2 - Management Dept Regular PC2 - DHCP VLAN 20
+          hostname SMLC-HQ-Mgmt-PC2
+          ip link set eth0 up
+          udhcpc -i eth0 -x hostname:SMLC-HQ-Mgmt-PC2 &
+          echo "nameserver 10.10.10.12" > /etc/resolv.conf
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n33
+    image_definition: null
+    label: SMLC-HQ-Mgmt-PC2
+    node_definition: desktop
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -2220
+    y: 662
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration:
+      - name: node.cfg
+        content: |-
+          #!/bin/sh
+          # SMLC-HQ-MgmtAdmin-PRN1 - Management Admin Dept Printer - Static IP VLAN 10
+          hostname SMLC-HQ-MgmtAdmin-PRN1
+          ip addr flush dev eth0
+          ip addr add 172.16.10.50/24 dev eth0
+          ip link set eth0 up
+          ip route add default via 172.16.10.1
+          echo "nameserver 10.10.10.12" > /etc/resolv.conf
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n34
+    image_definition: null
+    label: SMLC-HQ-MgmtAdmin-PRN1
+    node_definition: alpine
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -2229
+    y: 747
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n35
+    image_definition: null
+    label: SMLC-HQ-BizOps-PC1
+    node_definition: desktop
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -1577
+    y: 583
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n36
+    image_definition: null
+    label: SMLC-HQ-BizOps-PC2
+    node_definition: desktop
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -1575
+    y: 673
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n37
+    image_definition: null
+    label: SMLC-HQ-BizOps-PRN1
+    node_definition: alpine
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -1572
+    y: 755
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n38
+    image_definition: null
+    label: SMLC-HQ-Finance-PC1
+    node_definition: desktop
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -974
+    y: 588
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n39
+    image_definition: null
+    label: SMLC-HQ-Finance-PC2
+    node_definition: desktop
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -974
+    y: 668
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n40
+    image_definition: null
+    label: SMLC-HQ-Finance-PRN1
+    node_definition: alpine
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -961
+    y: 767
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n41
+    image_definition: null
+    label: SMLC-HQ-TechOps-PC1
+    node_definition: desktop
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -304
+    y: 593
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n42
+    image_definition: null
+    label: SMLC-HQ-TechOps-PC2
+    node_definition: desktop
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -304
+    y: 673
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n43
+    image_definition: null
+    label: SMLC-HQ-TechOps-PRN1
+    node_definition: alpine
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -304
+    y: 753
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n44
+    image_definition: null
+    label: SMLC-HQ-ITInfra-PC1
+    node_definition: desktop
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: 354
+    y: 659
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n45
+    image_definition: null
+    label: SMLC-HQ-ITInfra-PC2
+    node_definition: desktop
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: 354
+    y: 739
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n46
+    image_definition: null
+    label: SMLC-HQ-ITInfra-PRN1
+    node_definition: alpine
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: 354
+    y: 819
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration:
+      - name: node.cfg
+        content: |-
+          #!/bin/sh
+          # SMLC-BR-TechOps-PC1 - Branch TechOps Dept PC1 - DHCP VLAN 20
+          hostname SMLC-BR-TechOps-PC1
+          ip link set eth0 up
+          udhcpc -i eth0 -x hostname:SMLC-BR-TechOps-PC1 &
+          echo "nameserver 10.10.10.12" > /etc/resolv.conf
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n47
+    image_definition: null
+    label: SMLC-BR-TechOps-PC1
+    node_definition: desktop
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: 1293
+    y: 684
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n48
+    image_definition: null
+    label: SMLC-HQ-MgmtAdmin-AP1
+    node_definition: wireless-ap
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -1839
+    y: 729
+    interfaces:
+      - id: i0
+        label: ens2
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i1
+        label: ens3
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i2
+        label: ens4
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i3
+        label: ens5
+        mac_address: null
+        type: physical
+        slot: 3
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n49
+    image_definition: null
+    label: SMLC-HQ-MgmtAdmin-TAB1
+    node_definition: wireless-client
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -1912
+    y: 918
+    interfaces:
+      - id: i0
+        label: ens2
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n50
+    image_definition: null
+    label: SMLC-HQ-MgmtAdmin-MOB1
+    node_definition: wireless-client
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -1845
+    y: 985
+    interfaces:
+      - id: i0
+        label: ens2
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n51
+    image_definition: null
+    label: SMLC-HQ-MgmtAdmin-LAP2
+    node_definition: wireless-client
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -1957
+    y: 852
+    interfaces:
+      - id: i0
+        label: ens2
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n52
+    image_definition: null
+    label: SMLC-HQ-BizOps-AP1
+    node_definition: wireless-ap
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -1239
+    y: 746
+    interfaces:
+      - id: i0
+        label: ens2
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i1
+        label: ens3
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i2
+        label: ens4
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i3
+        label: ens5
+        mac_address: null
+        type: physical
+        slot: 3
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n53
+    image_definition: null
+    label: SMLC-HQ-BizOps-TAB1
+    node_definition: wireless-client
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -1303
+    y: 924
+    interfaces:
+      - id: i0
+        label: ens2
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n54
+    image_definition: null
+    label: SMLC-HQ-BizOps-MOB1
+    node_definition: wireless-client
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -1247
+    y: 987
+    interfaces:
+      - id: i0
+        label: ens2
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n55
+    image_definition: null
+    label: SMLC-HQ-Finance-AP1
+    node_definition: wireless-ap
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -606
+    y: 720
+    interfaces:
+      - id: i0
+        label: ens2
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i1
+        label: ens3
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i2
+        label: ens4
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i3
+        label: ens5
+        mac_address: null
+        type: physical
+        slot: 3
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n56
+    image_definition: null
+    label: SMLC-HQ-Finance-TAB1
+    node_definition: wireless-client
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -666
+    y: 908
+    interfaces:
+      - id: i0
+        label: ens2
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n57
+    image_definition: null
+    label: SMLC-HQ-Finance-MOB1
+    node_definition: wireless-client
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -614
+    y: 975
+    interfaces:
+      - id: i0
+        label: ens2
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n58
+    image_definition: null
+    label: SMLC-HQ-TechOps-AP1
+    node_definition: wireless-ap
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: 35
+    y: 733
+    interfaces:
+      - id: i0
+        label: ens2
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i1
+        label: ens3
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i2
+        label: ens4
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i3
+        label: ens5
+        mac_address: null
+        type: physical
+        slot: 3
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n59
+    image_definition: null
+    label: SMLC-HQ-TechOps-TAB1
+    node_definition: wireless-client
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -42
+    y: 898
+    interfaces:
+      - id: i0
+        label: ens2
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n60
+    image_definition: null
+    label: SMLC-HQ-TechOps-MOB1
+    node_definition: wireless-client
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: 27
+    y: 963
+    interfaces:
+      - id: i0
+        label: ens2
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n61
+    image_definition: null
+    label: SMLC-HQ-ITInfra-AP1
+    node_definition: wireless-ap
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: 699
+    y: 708
+    interfaces:
+      - id: i0
+        label: ens2
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i1
+        label: ens3
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i2
+        label: ens4
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i3
+        label: ens5
+        mac_address: null
+        type: physical
+        slot: 3
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n62
+    image_definition: null
+    label: SMLC-HQ-ITInfra-TAB1
+    node_definition: wireless-client
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: 646
+    y: 877
+    interfaces:
+      - id: i0
+        label: ens2
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n63
+    image_definition: null
+    label: SMLC-HQ-ITInfra-MOB1
+    node_definition: wireless-client
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: 684
+    y: 951
+    interfaces:
+      - id: i0
+        label: ens2
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n64
+    image_definition: null
+    label: SMLC-HQ-BizOps-LAP2
+    node_definition: wireless-client
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -1353
+    y: 863
+    interfaces:
+      - id: i0
+        label: ens2
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n65
+    image_definition: null
+    label: SMLC-HQ-Finance-LAP2
+    node_definition: wireless-client
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -708
+    y: 844
+    interfaces:
+      - id: i0
+        label: ens2
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n66
+    image_definition: null
+    label: SMLC-HQ-TechOps-LAP1
+    node_definition: wireless-client
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -101
+    y: 828
+    interfaces:
+      - id: i0
+        label: ens2
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n67
+    image_definition: null
+    label: SMLC-HQ-ITInfra-LAP1
+    node_definition: wireless-client
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: 594
+    y: 809
+    interfaces:
+      - id: i0
+        label: ens2
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration:
+      - name: node.cfg
+        content: |-
+          #!/bin/sh
+          # SMLC-HQ-Admin-PC1 - Management Admin PC1 - Static/DHCP VLAN 10
+          hostname SMLC-HQ-Admin-PC1
+          ip link set eth0 up
+          udhcpc -i eth0 -x hostname:SMLC-HQ-Admin-PC1 &
+          echo "nameserver 10.10.10.12" > /etc/resolv.conf
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n68
+    image_definition: null
+    label: SMLC-HQ-Admin-PC1
+    node_definition: desktop
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -2225
+    y: 919
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration:
+      - name: node.cfg
+        content: |-
+          #!/bin/sh
+          # SMLC-HQ-Admin-PC2 - Management Admin PC2 - Static/DHCP VLAN 10
+          hostname SMLC-HQ-Admin-PC2
+          ip link set eth0 up
+          udhcpc -i eth0 -x hostname:SMLC-HQ-Admin-PC2 &
+          echo "nameserver 10.10.10.12" > /etc/resolv.conf
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n69
+    image_definition: null
+    label: SMLC-HQ-Admin-PC2
+    node_definition: desktop
+    parameters: {}
+    priority: null
+    pyats:
+      username: null
+      password: null
+      enable_password: null
+    ram: null
+    tags: []
+    x: -2226
+    y: 831
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: null
+        type: physical
+        slot: 0
+links:
+  - id: l0
+    n1: n0
+    n2: n2
+    i1: i1
+    i2: i1
+    conditioning: {}
+    label: HQ-FWL1-GigabitEthernet0/0<->HQ-MLSW1-GigabitEthernet0/0
+  - id: l1
+    n1: n0
+    n2: n3
+    i1: i2
+    i2: i1
+    conditioning: {}
+    label: HQ-FWL1-GigabitEthernet0/1<->HQ-MLSW2-GigabitEthernet0/0
+  - id: l2
+    n1: n0
+    n2: n4
+    i1: i3
+    i2: i1
+    conditioning: {}
+    label: HQ-FWL1-GigabitEthernet0/2<->DMZ-SW-GigabitEthernet0/0
+  - id: l3
+    n1: n0
+    n2: n11
+    i1: i4
+    i2: i1
+    conditioning: {}
+    label: HQ-FWL1-GigabitEthernet0/3<->ISP1-GigabitEthernet0/0
+  - id: l4
+    n1: n0
+    n2: n12
+    i1: i5
+    i2: i2
+    conditioning: {}
+    label: HQ-FWL1-GigabitEthernet0/4<->ISP2-GigabitEthernet0/1
+  - id: l5
+    n1: n1
+    n2: n2
+    i1: i1
+    i2: i2
+    conditioning: {}
+    label: HQ-FWL2-GigabitEthernet0/0<->HQ-MLSW1-GigabitEthernet0/1
+  - id: l6
+    n1: n1
+    n2: n3
+    i1: i2
+    i2: i2
+    conditioning: {}
+    label: HQ-FWL2-GigabitEthernet0/1<->HQ-MLSW2-GigabitEthernet0/1
+  - id: l7
+    n1: n1
+    n2: n11
+    i1: i3
+    i2: i2
+    conditioning: {}
+    label: HQ-FWL2-GigabitEthernet0/2<->ISP1-GigabitEthernet0/1
+  - id: l8
+    n1: n1
+    n2: n12
+    i1: i4
+    i2: i1
+    conditioning: {}
+    label: HQ-FWL2-GigabitEthernet0/3<->ISP2-GigabitEthernet0/0
+  - id: l9
+    n1: n2
+    n2: n15
+    i1: i3
+    i2: i1
+    conditioning: {}
+    label: HQ-MLSW1-GigabitEthernet0/2<->HQ-ACC-SW1-GigabitEthernet0/0
+  - id: l10
+    n1: n2
+    n2: n16
+    i1: i4
+    i2: i1
+    conditioning: {}
+    label: HQ-MLSW1-GigabitEthernet0/3<->HQ-ACC-SW2-GigabitEthernet0/0
+  - id: l11
+    n1: n2
+    n2: n17
+    i1: i5
+    i2: i1
+    conditioning: {}
+    label: HQ-MLSW1-GigabitEthernet1/0<->HQ-ACC-SW3-GigabitEthernet0/0
+  - id: l12
+    n1: n2
+    n2: n18
+    i1: i6
+    i2: i1
+    conditioning: {}
+    label: HQ-MLSW1-GigabitEthernet1/1<->HQ-ACC-SW4-GigabitEthernet0/0
+  - id: l13
+    n1: n2
+    n2: n19
+    i1: i7
+    i2: i0
+    conditioning: {}
+    label: HQ-MLSW1-GigabitEthernet1/2<->HQ-WLC-NOTE-eth0
+  - id: l14
+    n1: n2
+    n2: n3
+    i1: i8
+    i2: i8
+    conditioning: {}
+    label: HQ-MLSW1-GigabitEthernet1/3<->HQ-MLSW2-GigabitEthernet1/3
+  - id: l15
+    n1: n2
+    n2: n3
+    i1: i9
+    i2: i9
+    conditioning: {}
+    label: HQ-MLSW1-GigabitEthernet2/0<->HQ-MLSW2-GigabitEthernet2/0
+  - id: l16
+    n1: n2
+    n2: n3
+    i1: i10
+    i2: i10
+    conditioning: {}
+    label: HQ-MLSW1-GigabitEthernet2/1<->HQ-MLSW2-GigabitEthernet2/1
+  - id: l17
+    n1: n3
+    n2: n15
+    i1: i3
+    i2: i2
+    conditioning: {}
+    label: HQ-MLSW2-GigabitEthernet0/2<->HQ-ACC-SW1-GigabitEthernet0/1
+  - id: l18
+    n1: n3
+    n2: n16
+    i1: i4
+    i2: i2
+    conditioning: {}
+    label: HQ-MLSW2-GigabitEthernet0/3<->HQ-ACC-SW2-GigabitEthernet0/1
+  - id: l19
+    n1: n3
+    n2: n17
+    i1: i5
+    i2: i2
+    conditioning: {}
+    label: HQ-MLSW2-GigabitEthernet1/0<->HQ-ACC-SW3-GigabitEthernet0/1
+  - id: l20
+    n1: n3
+    n2: n18
+    i1: i6
+    i2: i2
+    conditioning: {}
+    label: HQ-MLSW2-GigabitEthernet1/1<->HQ-ACC-SW4-GigabitEthernet0/1
+  - id: l21
+    n1: n4
+    n2: n5
+    i1: i2
+    i2: i0
+    conditioning: {}
+    label: DMZ-SW-GigabitEthernet0/1<->DHCP-SRV1-eth0
+  - id: l22
+    n1: n4
+    n2: n6
+    i1: i3
+    i2: i0
+    conditioning: {}
+    label: DMZ-SW-GigabitEthernet0/2<->DHCP-SRV2-eth0
+  - id: l23
+    n1: n4
+    n2: n7
+    i1: i4
+    i2: i0
+    conditioning: {}
+    label: DMZ-SW-GigabitEthernet0/3<->DNS-SRV-eth0
+  - id: l24
+    n1: n4
+    n2: n8
+    i1: i5
+    i2: i0
+    conditioning: {}
+    label: DMZ-SW-GigabitEthernet1/0<->WEB-SRV-eth0
+  - id: l25
+    n1: n4
+    n2: n9
+    i1: i6
+    i2: i0
+    conditioning: {}
+    label: DMZ-SW-GigabitEthernet1/1<->EMAIL-SRV-eth0
+  - id: l26
+    n1: n4
+    n2: n10
+    i1: i7
+    i2: i0
+    conditioning: {}
+    label: DMZ-SW-GigabitEthernet1/2<->FTP-SRV-eth0
+  - id: l27
+    n1: n11
+    n2: n13
+    i1: i3
+    i2: i1
+    conditioning: {}
+    label: ISP1-GigabitEthernet0/2<->INTERNET-GigabitEthernet0/0
+  - id: l28
+    n1: n12
+    n2: n13
+    i1: i3
+    i2: i3
+    conditioning: {}
+    label: ISP2-GigabitEthernet0/2<->INTERNET-GigabitEthernet0/2
+  - id: l29
+    n1: n13
+    n2: n20
+    i1: i2
+    i2: i2
+    conditioning: {}
+    label: INTERNET-GigabitEthernet0/1<->Branch-ISP-GigabitEthernet0/1
+  - id: l30
+    n1: n13
+    n2: n14
+    i1: i4
+    i2: i1
+    conditioning: {}
+    label: INTERNET-GigabitEthernet0/3<->INTERNET-CLOUD-SW-GigabitEthernet0/0
+  - id: l31
+    n1: n20
+    n2: n21
+    i1: i1
+    i2: i3
+    conditioning: {}
+    label: Branch-ISP-GigabitEthernet0/0<->Branch-FW-GigabitEthernet0/2
+  - id: l32
+    n1: n21
+    n2: n22
+    i1: i1
+    i2: i1
+    conditioning: {}
+    label: Branch-FW-GigabitEthernet0/0<->Branch-MLSW1-GigabitEthernet0/0
+  - id: l33
+    n1: n21
+    n2: n23
+    i1: i2
+    i2: i1
+    conditioning: {}
+    label: Branch-FW-GigabitEthernet0/1<->Branch-MLSW2-GigabitEthernet0/0
+  - id: l34
+    n1: n22
+    n2: n24
+    i1: i2
+    i2: i1
+    conditioning: {}
+    label: Branch-MLSW1-GigabitEthernet0/1<->Branch-ACC-SW1-GigabitEthernet0/0
+  - id: l35
+    n1: n22
+    n2: n25
+    i1: i3
+    i2: i1
+    conditioning: {}
+    label: Branch-MLSW1-GigabitEthernet0/2<->Branch-ACC-SW2-GigabitEthernet0/0
+  - id: l36
+    n1: n23
+    n2: n24
+    i1: i2
+    i2: i2
+    conditioning: {}
+    label: Branch-MLSW2-GigabitEthernet0/1<->Branch-ACC-SW1-GigabitEthernet0/1
+  - id: l37
+    n1: n23
+    n2: n25
+    i1: i3
+    i2: i2
+    conditioning: {}
+    label: Branch-MLSW2-GigabitEthernet0/2<->Branch-ACC-SW2-GigabitEthernet0/1
+  - id: l38
+    n1: n22
+    n2: n23
+    i1: i4
+    i2: i4
+    conditioning: {}
+    label: Branch-MLSW1-GigabitEthernet0/3<->Branch-MLSW2-GigabitEthernet0/3
+  - id: l39
+    n1: n22
+    n2: n23
+    i1: i5
+    i2: i5
+    conditioning: {}
+    label: Branch-MLSW1-GigabitEthernet1/0<->Branch-MLSW2-GigabitEthernet1/0
+  - id: l40
+    n1: n22
+    n2: n23
+    i1: i6
+    i2: i6
+    conditioning: {}
+    label: Branch-MLSW1-GigabitEthernet1/1<->Branch-MLSW2-GigabitEthernet1/1
+  - id: l41
+    n1: n2
+    n2: n26
+    i1: i11
+    i2: i1
+    conditioning: {}
+    label: HQ-MLSW1-GigabitEthernet2/2<->IT-SW-GigabitEthernet0/0
+  - id: l42
+    n1: n3
+    n2: n26
+    i1: i7
+    i2: i2
+    conditioning: {}
+    label: HQ-MLSW2-GigabitEthernet1/2<->IT-SW-GigabitEthernet0/1
+  - id: l43
+    n1: n22
+    n2: n27
+    i1: i8
+    i2: i1
+    conditioning: {}
+    label: Branch-MLSW1-GigabitEthernet1/3<->B-BUS-SW-GigabitEthernet0/0
+  - id: l44
+    n1: n22
+    n2: n28
+    i1: i9
+    i2: i1
+    conditioning: {}
+    label: Branch-MLSW1-GigabitEthernet2/0<->B-HS-SW-GigabitEthernet0/0
+  - id: l45
+    n1: n23
+    n2: n27
+    i1: i7
+    i2: i2
+    conditioning: {}
+    label: Branch-MLSW2-GigabitEthernet1/2<->B-BUS-SW-GigabitEthernet0/1
+  - id: l46
+    n1: n23
+    n2: n28
+    i1: i8
+    i2: i2
+    conditioning: {}
+    label: Branch-MLSW2-GigabitEthernet1/3<->B-HS-SW-GigabitEthernet0/1
+  - id: l47
+    n1: n14
+    n2: n29
+    i1: i2
+    i2: i0
+    conditioning: {}
+    label: INTERNET-CLOUD-SW-GigabitEthernet0/1<->GOOGLE-SERVER-eth0
+  - id: l48
+    n1: n14
+    n2: n30
+    i1: i3
+    i2: i0
+    conditioning: {}
+    label: INTERNET-CLOUD-SW-GigabitEthernet0/2<->GOOGLE-VM-eth0
+  - id: l49
+    n1: n19
+    n2: n31
+    i1: i1
+    i2: i0
+    conditioning: {}
+    label: HQ-WLC-NOTE-eth1<->NET-SEC-PC-eth0
+  - id: l50
+    n1: n15
+    n2: n32
+    i1: i3
+    i2: i0
+    conditioning: {}
+    label: HQ-ACC-SW1-GigabitEthernet0/2<->HS-PC1-eth0
+  - id: l51
+    n1: n15
+    n2: n33
+    i1: i4
+    i2: i0
+    conditioning: {}
+    label: HQ-ACC-SW1-GigabitEthernet0/3<->HS-PC2-eth0
+  - id: l52
+    n1: n15
+    n2: n34
+    i1: i5
+    i2: i0
+    conditioning: {}
+    label: HQ-ACC-SW1-GigabitEthernet1/0<->HS-PRNT-eth0
+  - id: l53
+    n1: n16
+    n2: n35
+    i1: i3
+    i2: i0
+    conditioning: {}
+    label: HQ-ACC-SW2-GigabitEthernet0/2<->BUS-PC1-eth0
+  - id: l54
+    n1: n16
+    n2: n36
+    i1: i4
+    i2: i0
+    conditioning: {}
+    label: HQ-ACC-SW2-GigabitEthernet0/3<->BUS-PC2-eth0
+  - id: l55
+    n1: n16
+    n2: n37
+    i1: i5
+    i2: i0
+    conditioning: {}
+    label: HQ-ACC-SW2-GigabitEthernet1/0<->BUS-PRNT-eth0
+  - id: l56
+    n1: n17
+    n2: n38
+    i1: i3
+    i2: i0
+    conditioning: {}
+    label: HQ-ACC-SW3-GigabitEthernet0/2<->ENG-PC1-eth0
+  - id: l57
+    n1: n17
+    n2: n39
+    i1: i4
+    i2: i0
+    conditioning: {}
+    label: HQ-ACC-SW3-GigabitEthernet0/3<->ENG-PC2-eth0
+  - id: l58
+    n1: n17
+    n2: n40
+    i1: i5
+    i2: i0
+    conditioning: {}
+    label: HQ-ACC-SW3-GigabitEthernet1/0<->ENG-PRNT-eth0
+  - id: l59
+    n1: n18
+    n2: n41
+    i1: i3
+    i2: i0
+    conditioning: {}
+    label: HQ-ACC-SW4-GigabitEthernet0/2<->ART-PC1-eth0
+  - id: l60
+    n1: n18
+    n2: n42
+    i1: i4
+    i2: i0
+    conditioning: {}
+    label: HQ-ACC-SW4-GigabitEthernet0/3<->ART-PC2-eth0
+  - id: l61
+    n1: n18
+    n2: n43
+    i1: i5
+    i2: i0
+    conditioning: {}
+    label: HQ-ACC-SW4-GigabitEthernet1/0<->ART-PRNT-eth0
+  - id: l62
+    n1: n26
+    n2: n44
+    i1: i3
+    i2: i0
+    conditioning: {}
+    label: IT-SW-GigabitEthernet0/2<->IT-PC1-eth0
+  - id: l63
+    n1: n26
+    n2: n45
+    i1: i4
+    i2: i0
+    conditioning: {}
+    label: IT-SW-GigabitEthernet0/3<->IT-PC2-eth0
+  - id: l64
+    n1: n26
+    n2: n46
+    i1: i5
+    i2: i0
+    conditioning: {}
+    label: IT-SW-GigabitEthernet1/0<->IT-PRNT-eth0
+  - id: l65
+    n1: n24
+    n2: n47
+    i1: i3
+    i2: i0
+    conditioning: {}
+    label: Branch-ACC-SW1-GigabitEthernet0/2<->B-ART-PC1-eth0
+  - id: l66
+    n1: n15
+    n2: n48
+    i1: i6
+    i2: i0
+    conditioning: {}
+    label: HS-SW-GigabitEthernet1/1<->HS-WAP-ens2
+  - id: l67
+    n1: n48
+    n2: n49
+    i1: i1
+    i2: i0
+    conditioning: {}
+    label: HS-WAP-ens3<->HS-TBL-ens2
+  - id: l68
+    n1: n48
+    n2: n50
+    i1: i2
+    i2: i0
+    conditioning: {}
+    label: HS-WAP-ens4<->HS-SM-ens2
+  - id: l69
+    n1: n48
+    n2: n51
+    i1: i3
+    i2: i0
+    conditioning: {}
+    label: HS-WAP-ens5<->HS-LPT-ens2
+  - id: l70
+    n1: n64
+    n2: n52
+    i1: i0
+    i2: i0
+    conditioning: {}
+    label: SMLC-HQ-BizOps-LAP2-ens2<->SMLC-HQ-BizOps-AP1-ens2
+  - id: l71
+    n1: n53
+    n2: n52
+    i1: i0
+    i2: i1
+    conditioning: {}
+    label: SMLC-HQ-BizOps-TAB1-ens2<->SMLC-HQ-BizOps-AP1-ens3
+  - id: l72
+    n1: n54
+    n2: n52
+    i1: i0
+    i2: i2
+    conditioning: {}
+    label: SMLC-HQ-BizOps-MOB1-ens2<->SMLC-HQ-BizOps-AP1-ens4
+  - id: l73
+    n1: n65
+    n2: n55
+    i1: i0
+    i2: i0
+    conditioning: {}
+    label: SMLC-HQ-Finance-LAP2-ens2<->SMLC-HQ-Finance-AP1-ens2
+  - id: l74
+    n1: n56
+    n2: n55
+    i1: i0
+    i2: i1
+    conditioning: {}
+    label: SMLC-HQ-Finance-TAB1-ens2<->SMLC-HQ-Finance-AP1-ens3
+  - id: l75
+    n1: n57
+    n2: n55
+    i1: i0
+    i2: i2
+    conditioning: {}
+    label: SMLC-HQ-Finance-MOB1-ens2<->SMLC-HQ-Finance-AP1-ens4
+  - id: l76
+    n1: n66
+    n2: n58
+    i1: i0
+    i2: i0
+    conditioning: {}
+    label: SMLC-HQ-TechOps-LAP1-ens2<->SMLC-HQ-TechOps-AP1-ens2
+  - id: l77
+    n1: n59
+    n2: n58
+    i1: i0
+    i2: i1
+    conditioning: {}
+    label: SMLC-HQ-TechOps-TAB1-ens2<->SMLC-HQ-TechOps-AP1-ens3
+  - id: l78
+    n1: n60
+    n2: n58
+    i1: i0
+    i2: i2
+    conditioning: {}
+    label: SMLC-HQ-TechOps-MOB1-ens2<->SMLC-HQ-TechOps-AP1-ens4
+  - id: l79
+    n1: n67
+    n2: n61
+    i1: i0
+    i2: i0
+    conditioning: {}
+    label: SMLC-HQ-ITInfra-LAP1-ens2<->SMLC-HQ-ITInfra-AP1-ens2
+  - id: l80
+    n1: n62
+    n2: n61
+    i1: i0
+    i2: i1
+    conditioning: {}
+    label: SMLC-HQ-ITInfra-TAB1-ens2<->SMLC-HQ-ITInfra-AP1-ens3
+  - id: l81
+    n1: n63
+    n2: n61
+    i1: i0
+    i2: i2
+    conditioning: {}
+    label: SMLC-HQ-ITInfra-MOB1-ens2<->SMLC-HQ-ITInfra-AP1-ens4
+  - id: l82
+    n1: n52
+    n2: n16
+    i1: i3
+    i2: i6
+    conditioning: {}
+    label: SMLC-HQ-BizOps-AP1-ens5<->SMLC-HQ-BizOps-SW1-GigabitEthernet1/1
+  - id: l83
+    n1: n55
+    n2: n17
+    i1: i3
+    i2: i6
+    conditioning: {}
+    label: SMLC-HQ-Finance-AP1-ens5<->SMLC-HQ-Finance-SW1-GigabitEthernet1/1
+  - id: l84
+    n1: n58
+    n2: n18
+    i1: i3
+    i2: i6
+    conditioning: {}
+    label: SMLC-HQ-TechOps-AP1-ens5<->SMLC-HQ-TechOps-SW1-GigabitEthernet1/1
+  - id: l85
+    n1: n61
+    n2: n26
+    i1: i3
+    i2: i6
+    conditioning: {}
+    label: SMLC-HQ-ITInfra-AP1-ens5<->SMLC-HQ-ITInfra-SW1-GigabitEthernet1/1
+  - id: l86
+    n1: n69
+    n2: n15
+    i1: i0
+    i2: i7
+    conditioning: {}
+    label: SMLC-HQ-Admin-PC2-eth0<->SMLC-HQ-MgmtAdmin-SW1-GigabitEthernet1/2
+  - id: l87
+    n1: n68
+    n2: n15
+    i1: i0
+    i2: i8
+    conditioning: {}
+    label: SMLC-HQ-Admin-PC1-eth0<->SMLC-HQ-MgmtAdmin-SW1-GigabitEthernet1/3
+lab:
+  description: MedSyn Company LAN - Full topology. All nodes powered OFF. No configuration
+    applied yet. Based on Cisco Packet Tracer final project.
+  notes: '27 nodes, 42 links. HQ site: 2x ASAv firewalls, 2x IOSvL2 multilayer switches,
+    DMZ switch, 6 servers, ISP1, ISP2, 4 access switches, WLC placeholder. Internet
+    core router + cloud switch. Branch site: firewall, 2x multilayer switches, 2 access
+    switches, WLC placeholder. Configure devices one at a time (max 5 nodes ON simultaneously
+    - CML FREE license). DO NOT START ANY NODE before configuration is applied.'
+  title: Sam-MedSyn-Lab-Network-Design
+  node_staging:
+    enabled: false
+    start_remaining: true
+    abort_on_failure: false
+  version: 0.3.1

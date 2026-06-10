@@ -1,0 +1,46 @@
+hostname SMLC-HQ-MgmtAdmin-MOB1
+======================================================================
+  DEVICE: SMLC-HQ-MgmtAdmin-MOB1
+  TYPE:   WIRELESS CLIENT
+  ROLE:   Health Services Dept - Smartphone (Wireless Endpoint)
+  SSID:   MedSyn-HS-WLAN | Connected to HS-WAP
+======================================================================
+
+# CML Wireless Client - HS Department Smartphone
+# Wireless link: ens2 → HS-WAP (virtual wireless)
+# VLAN:  50 (WLAN) | Subnet: 172.16.48.0/22
+# DHCP:  From DHCP-SRV1 → range 172.16.50.100-172.16.51.200
+# GW:    172.16.50.1 (HSRP VIP on HQ-MLSW1/2)
+# DNS:   10.10.10.12 (DNS-SRV)
+
+#cloud-config
+hostname: HS-SM
+
+write_files:
+  - path: /etc/network/interfaces
+    content: |
+      auto lo
+      iface lo inet loopback
+
+      auto ens2
+      iface ens2 inet dhcp
+
+  - path: /etc/wpa_supplicant/wpa_supplicant.conf
+    content: |
+      ctrl_interface=/run/wpa_supplicant
+      update_config=1
+
+      network={
+          ssid="MedSyn-HS-WLAN"
+          psk="MedSyn@WLAN"
+          key_mgmt=WPA-PSK
+      }
+
+runcmd:
+  - ip link set ens2 up
+  - dhclient ens2
+  - echo "nameserver 10.10.10.12" > /etc/resolv.conf
+  - echo "search medsyn.lab" >> /etc/resolv.conf
+
+# Expected DHCP lease: 172.16.50.x/22
+# Can reach: HQ LAN, Branch (via VPN), DMZ servers

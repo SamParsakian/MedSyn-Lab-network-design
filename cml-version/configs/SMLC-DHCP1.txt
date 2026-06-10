@@ -1,0 +1,83 @@
+======================================================================
+  DEVICE: SMLC-DHCP1
+  TYPE:   ALPINE LINUX SERVER
+  STATUS: Final Configuration (SMLC Renamed)
+======================================================================
+
+#!/bin/sh
+# MedSyn DHCP Server 1 - Primary (FIXED)
+# IP: 10.10.10.10/26, GW: 10.10.10.1
+
+hostname SMLC-DHCP1
+
+ip addr flush dev eth0
+ip addr add 10.10.10.10/26 dev eth0
+ip link set eth0 up
+ip route add default via 10.10.10.1
+
+echo "nameserver 10.10.10.12" > /etc/resolv.conf
+echo "search medsyn.lab" >> /etc/resolv.conf
+
+apk update && apk add dhcp
+
+cat > /etc/dhcp/dhcpd.conf << 'DHCPEOF'
+authoritative;
+log-facility local7;
+default-lease-time 86400;
+max-lease-time 172800;
+
+subnet 10.10.10.0 netmask 255.255.255.192 {
+}
+
+subnet 172.16.10.0 netmask 255.255.255.0 {
+  range 172.16.10.100 172.16.10.200;
+  option subnet-mask 255.255.255.0;
+  option routers 172.16.10.1;
+  option domain-name-servers 10.10.10.12;
+  option domain-name "medsyn.lab";
+  default-lease-time 86400;
+}
+
+subnet 172.16.20.0 netmask 255.255.252.0 {
+  range 172.16.20.100 172.16.21.200;
+  option subnet-mask 255.255.252.0;
+  option routers 172.16.20.1;
+  option domain-name-servers 10.10.10.12;
+  option domain-name "medsyn.lab";
+}
+
+subnet 172.16.48.0 netmask 255.255.252.0 {
+  range 172.16.50.100 172.16.51.200;
+  option subnet-mask 255.255.252.0;
+  option routers 172.16.50.1;
+  option domain-name-servers 10.10.10.12;
+  option domain-name "medsyn.lab";
+}
+
+subnet 172.17.10.0 netmask 255.255.255.0 {
+  range 172.17.10.100 172.17.10.200;
+  option subnet-mask 255.255.255.0;
+  option routers 172.17.10.1;
+  option domain-name-servers 10.10.10.12;
+  option domain-name "medsyn.lab";
+}
+
+subnet 172.17.20.0 netmask 255.255.252.0 {
+  range 172.17.20.100 172.17.21.200;
+  option subnet-mask 255.255.252.0;
+  option routers 172.17.20.1;
+  option domain-name-servers 10.10.10.12;
+  option domain-name "medsyn.lab";
+}
+
+subnet 172.17.48.0 netmask 255.255.252.0 {
+  range 172.17.50.100 172.17.51.200;
+  option subnet-mask 255.255.252.0;
+  option routers 172.17.50.1;
+  option domain-name-servers 10.10.10.12;
+  option domain-name "medsyn.lab";
+}
+DHCPEOF
+
+rc-update add dhcpd default
+rc-service dhcpd start

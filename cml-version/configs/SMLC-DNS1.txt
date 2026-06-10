@@ -1,0 +1,60 @@
+======================================================================
+  DEVICE: SMLC-DNS1
+  TYPE:   ALPINE LINUX SERVER
+  STATUS: Final Configuration (SMLC Renamed)
+======================================================================
+
+#!/bin/sh
+# MedSyn DNS Server
+# IP: 10.10.10.12/26, GW: 10.10.10.1
+
+hostname SMLC-DNS1
+
+ip addr flush dev eth0
+ip addr add 10.10.10.12/26 dev eth0
+ip link set eth0 up
+ip route add default via 10.10.10.1
+
+echo "nameserver 8.8.8.8" > /etc/resolv.conf
+
+apk update && apk add bind bind-tools
+
+cat > /etc/bind/named.conf << 'DNSEOF'
+options {
+    directory "/var/bind";
+    listen-on { any; };
+    allow-query { any; };
+    forwarders { 8.8.8.8; 1.1.1.1; };
+    recursion yes;
+};
+
+zone "medsyn.lab" IN {
+    type master;
+    file "/var/bind/medsyn.lab.zone";
+};
+
+zone "16.172.in-addr.arpa" IN {
+    type master;
+    file "/var/bind/172.16.rev";
+};
+DNSEOF
+
+cat > /var/bind/medsyn.lab.zone << 'ZONEEOF'
+$TTL 3600
+@   IN  SOA dns-srv.medsyn.lab. admin.medsyn.lab. (
+        2024010101 3600 900 604800 300 )
+    IN  NS  dns-srv.medsyn.lab.
+dns-srv     IN  A   10.10.10.12
+dhcp-srv1   IN  A   10.10.10.10
+dhcp-srv2   IN  A   10.10.10.11
+web-srv     IN  A   10.10.10.13
+email-srv   IN  A   10.10.10.14
+ftp-srv     IN  A   10.10.10.15
+hq-fwl1     IN  A   10.10.10.1
+hq-mlsw1    IN  A   172.16.10.3
+hq-mlsw2    IN  A   172.16.10.2
+gateway     IN  A   172.16.10.1
+ZONEEOF
+
+rc-update add named default
+rc-service named start

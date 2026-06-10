@@ -1,0 +1,54 @@
+hostname SMLC-HQ-MgmtAdmin-AP1
+======================================================================
+  DEVICE: SMLC-HQ-MgmtAdmin-AP1
+  TYPE:   WIRELESS AP
+  ROLE:   Health Services Dept Wireless Access Point
+  VLAN:   50 (WLAN) | Connected to HS-SW Gi1/1
+======================================================================
+
+# CML Wireless AP - HS Department
+# Wired uplink: ens2 → HS-SW Gi1/1 (VLAN 50 access port)
+# Wireless clients connect via ens3/ens4/ens5 (virtual wireless links)
+#
+# SSID:       MedSyn-HS-WLAN
+# Security:   WPA2-PSK
+# Password:   MedSyn@WLAN
+# VLAN:       50 (172.16.48.0/22)
+# DHCP:       From DHCP-SRV1 → range 172.16.50.100-172.16.51.200
+# Gateway:    172.16.50.1 (HSRP VIP on HQ-MLSW1/2)
+
+#cloud-config
+hostname: HS-WAP
+
+write_files:
+  - path: /etc/hostapd/hostapd.conf
+    content: |
+      interface=wlan0
+      ssid=MedSyn-HS-WLAN
+      hw_mode=g
+      channel=6
+      wpa=2
+      wpa_passphrase=MedSyn@WLAN
+      wpa_key_mgmt=WPA-PSK
+      rsn_pairwise=CCMP
+
+  - path: /etc/network/interfaces
+    content: |
+      auto lo
+      iface lo inet loopback
+
+      auto ens2
+      iface ens2 inet dhcp
+
+runcmd:
+  - ip link set ens2 up
+  - dhclient ens2
+
+# NOTE: In CML, the wireless link is simulated via virtual interfaces.
+# Wireless clients (HS-TBL, HS-SM, HS-LPT) connect via ens3/ens4/ens5.
+# The AP bridges these to ens2 (wired uplink to HS-SW on VLAN 50).
+
+# IP addressing (assigned by DHCP-SRV1):
+#   ens2 management:  172.16.50.x/22 (from DHCP WLAN pool)
+#   Default gateway:  172.16.50.1 (HSRP VIP)
+#   DNS:              10.10.10.12 (DNS-SRV)
