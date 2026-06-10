@@ -12,6 +12,14 @@ MedSyn is a fictional medical company with a headquarters site and a remote bran
 
 ---
 
+## Demo Video
+
+[![MedSyn Enterprise Network Demo](https://img.youtube.com/vi/MkcXrK_fldY/maxresdefault.jpg)](https://youtu.be/MkcXrK_fldY)
+
+Click the thumbnail above to watch the full demo — covering the network design, live tests in Cisco Packet Tracer, and the CML implementation.
+
+---
+
 ## Network Topology
 
 ![Network Topology](topology/network_topology.jpg)
